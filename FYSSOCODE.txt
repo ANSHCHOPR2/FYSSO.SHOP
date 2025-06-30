@@ -1,0 +1,2442 @@
+                                                          WWW.FYSSO.SHOP
+<!doctype html>
+<html class="js" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="">
+    <link rel="canonical" href="https://fysso.shop/"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+      Cuteness Delivered, Love Guaranteed!
+ &ndash; Fysso</title>
+
+    
+      <meta name="description" content="Discover the cutest and most comfortable baby essentials at FYSSO . We offer high-quality products with fast 7-day shipping across India, cash on delivery, and a hassle-free 7-day return policy.">
+    
+
+    
+
+<meta property="og:site_name" content="Fysso">
+<meta property="og:url" content="https://fysso.shop/">
+<meta property="og:title" content="Cuteness Delivered, Love Guaranteed!">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Discover the cutest and most comfortable baby essentials at FYSSO . We offer high-quality products with fast 7-day shipping across India, cash on delivery, and a hassle-free 7-day return policy."><meta property="og:image" content="http://fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817">
+  <meta property="og:image:secure_url" content="https://fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817">
+  <meta property="og:image:width" content="1195">
+  <meta property="og:image:height" content="570"><meta name="twitter:site" content="@#"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Cuteness Delivered, Love Guaranteed!">
+<meta name="twitter:description" content="Discover the cutest and most comfortable baby essentials at FYSSO . We offer high-quality products with fast 7-day shipping across India, cash on delivery, and a hassle-free 7-day return policy.">
+
+
+    <script src="//fysso.shop/cdn/shop/t/1/assets/constants.js?v=132983761750457495441742627292" defer="defer"></script>
+    <script src="//fysso.shop/cdn/shop/t/1/assets/pubsub.js?v=25310214064522200911742627294" defer="defer"></script>
+    <script src="//fysso.shop/cdn/shop/t/1/assets/global.js?v=184345515105158409801742627292" defer="defer"></script>
+    <script src="//fysso.shop/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501742627292" defer="defer"></script>
+    <script src="//fysso.shop/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451742627292" defer="defer"></script>
+    <script src="//fysso.shop/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541742627294" defer="defer"></script><script src="//fysso.shop/cdn/shop/t/1/assets/animations.js?v=88693664871331136111742627292" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/93105652030/digital_wallets/dialog">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-IN"></script>
+<script id="shopify-features" type="application/json">{"accessToken":"3761dbd1fa4c9e6170e8e5980df7d1f9","betas":["rich-media-storefront-analytics"],"domain":"fysso.shop","predictiveSearch":true,"shopId":93105652030,"smart_payment_buttons_url":"https:\/\/fysso.shop\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/fysso.shop\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "qvjg0w-5k.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"INR","rate":"1.0"};
+Shopify.country = "IN";
+Shopify.theme = {"name":"Dawn","id":176900931902,"schema_name":"Dawn","schema_version":"15.3.0","theme_store_id":887,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "fysso.shop/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"index"}</script>
+<script id="__st">var __st={"a":93105652030,"offset":19800,"reqid":"4a04c53e-7f7c-4b2d-83d1-5064cd5f70f9-1744131496","pageurl":"fysso.shop\/","u":"f13357c8e802","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
+<script>document.addEventListener('DOMContentLoaded', function() {
+  const adminBarInjector = new Shopify.AdminBarInjector({
+    targetNode: document.body,
+    iframeSrc: 'https://qvjg0w-5k.myshopify.com/admin/bar?action_name=index&path=%2F&storefront_country=IN&storefront_locale=en',
+    permanentDomain: 'qvjg0w-5k.myshopify.com',
+  });
+
+  adminBarInjector.init();
+});</script>
+<script integrity="sha256-EGCDRYTvIEOXsReXgqGwkAR+5Dl8tickSrieA/ZcQwc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//fysso.shop/cdn/shopifycloud/shopify/assets/storefront/load_feature-1060834584ef204397b1179782a1b090047ee4397cb627244ab89e03f65c4307.js" crossorigin="anonymous"></script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://fysso.shop/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+  function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
+</script>
+<script>
+  function portableWalletsCleanup(e){e&&e.src&&console.error("Failed to load portable wallets script "+e.src);var t=document.querySelectorAll("shopify-accelerated-checkout .shopify-payment-button__skeleton, shopify-accelerated-checkout-cart .wallet-cart-button__skeleton"),e=document.getElementById("shopify-buyer-consent");for(let e=0;e<t.length;e++)t[e].remove();e&&e.remove()}function portableWalletsNotLoadedAsModule(e){e instanceof ErrorEvent&&"string"==typeof e.message&&e.message.includes("import.meta")&&"string"==typeof e.filename&&e.filename.includes("portable-wallets")&&(window.removeEventListener("error",portableWalletsNotLoadedAsModule),window.Shopify.PaymentButton.failedToLoad=e,"loading"===document.readyState?document.addEventListener("DOMContentLoaded",window.Shopify.PaymentButton.init):window.Shopify.PaymentButton.init())}window.addEventListener("error",portableWalletsNotLoadedAsModule);
+</script>
+
+<script type="module" src="https://fysso.shop/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js" onError="portableWalletsCleanup(this)" crossorigin="anonymous"></script>
+<script nomodule>
+  document.addEventListener("DOMContentLoaded", portableWalletsCleanup);
+</script>
+
+<script integrity="sha256-qqTBxTUA6Gxw3w1zP7uaHjE2QPxKGOxUprWOMK1RXTM=" defer="defer" src="//fysso.shop/cdn/shopifycloud/shopify/assets/storefront/bars/admin_bar_injector-aaa4c1c53500e86c70df0d733fbb9a1e313640fc4a18ec54a6b58e30ad515d33.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header" defer="defer" src="//fysso.shop/cdn/shop/t/1/compiled_assets/scripts.js?90"></script>
+<link rel="stylesheet" media="screen" href="https://fysso.shop/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
+
+<style id="shopify-accelerated-checkout-cart">
+        #shopify-buyer-consent {
+  margin-top: 1em;
+  display: inline-block;
+  width: 100%;
+}
+
+#shopify-buyer-consent.hidden {
+  display: none;
+}
+
+#shopify-subscription-policy-button {
+  background: none;
+  border: none;
+  padding: 0;
+  text-decoration: underline;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+#shopify-subscription-policy-button::before {
+  box-shadow: none;
+}
+
+      </style>
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+
+    <style data-shopify>
+      @font-face {
+  font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//fysso.shop/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=cXZqZzB3LTVrLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=Znlzc28uc2hvcA&h3=Znlzc28ubXlzaG9waWZ5LmNvbQ&hmac=5c5dd47db8a661e6464db7dac4d7faf08740cff94c79058f19390c9b5df509c2") format("woff2"),
+       url("//fysso.shop/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=cXZqZzB3LTVrLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=Znlzc28uc2hvcA&h3=Znlzc28ubXlzaG9waWZ5LmNvbQ&hmac=e21b1792ccb90d12c525198f6703f0daf7f39396714980694d418a6e5ccc0df1") format("woff");
+}
+
+      @font-face {
+  font-family: Assistant;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//fysso.shop/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=cXZqZzB3LTVrLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=Znlzc28uc2hvcA&h3=Znlzc28ubXlzaG9waWZ5LmNvbQ&hmac=9b6c89cf393be7e3f9a9c1744ae90a2e54bf66c6e6765fbd74c92422b7849abe") format("woff2"),
+       url("//fysso.shop/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=cXZqZzB3LTVrLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=Znlzc28uc2hvcA&h3=Znlzc28ubXlzaG9waWZ5LmNvbQ&hmac=1c8c622fda7ec6e85525ab1f5155f733a6b88fe6e556cfe543e4e41c0ecee6eb") format("woff");
+}
+
+      
+      
+      
+
+      
+        :root,
+        .color-scheme-1 {
+          --color-background: 255,255,255;
+        
+          --gradient-background: #ffffff;
+        
+
+        
+
+        --color-foreground: 18,18,18;
+        --color-background-contrast: 191,191,191;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 255,255,255;
+        --color-secondary-button: 255,255,255;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 255,255,255;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(255 255 255);
+      }
+      
+        
+        .color-scheme-2 {
+          --color-background: 243,243,243;
+        
+          --gradient-background: #f3f3f3;
+        
+
+        
+
+        --color-foreground: 18,18,18;
+        --color-background-contrast: 179,179,179;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 243,243,243;
+        --color-secondary-button: 243,243,243;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 243,243,243;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(243 243 243);
+      }
+      
+        
+        .color-scheme-3 {
+          --color-background: 36,40,51;
+        
+          --gradient-background: #242833;
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 47,52,66;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 0,0,0;
+        --color-secondary-button: 36,40,51;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 36,40,51;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(36 40 51);
+      }
+      
+        
+        .color-scheme-4 {
+          --color-background: 18,18,18;
+        
+          --gradient-background: #121212;
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 146,146,146;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 18,18,18;
+        --color-secondary-button: 18,18,18;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 18,18,18;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(18 18 18);
+      }
+      
+        
+        .color-scheme-5 {
+          --color-background: 51,79,180;
+        
+          --gradient-background: #334fb4;
+        
+
+        
+
+        --color-foreground: 255,255,255;
+        --color-background-contrast: 23,35,81;
+        --color-shadow: 18,18,18;
+        --color-button: 255,255,255;
+        --color-button-text: 51,79,180;
+        --color-secondary-button: 51,79,180;
+        --color-secondary-button-text: 255,255,255;
+        --color-link: 255,255,255;
+        --color-badge-foreground: 255,255,255;
+        --color-badge-background: 51,79,180;
+        --color-badge-border: 255,255,255;
+        --payment-terms-background-color: rgb(51 79 180);
+      }
+      
+        
+        .color-scheme-14b25ec3-7b30-44c0-97da-acae888494d2 {
+          --color-background: 255,255,255;
+        
+          --gradient-background: radial-gradient(rgba(219, 149, 250, 1) 51%, rgba(148, 88, 255, 1) 100%);
+        
+
+        
+
+        --color-foreground: 18,18,18;
+        --color-background-contrast: 191,191,191;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 255,255,255;
+        --color-secondary-button: 255,255,255;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 255,255,255;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(255 255 255);
+      }
+      
+        
+        .color-scheme-c86fb03c-963d-4f1d-88c9-40f4e821c8a7 {
+          --color-background: 255,255,255;
+        
+          --gradient-background: linear-gradient(180deg, rgba(255, 211, 226, 1), rgba(168, 255, 251, 1) 100%);
+        
+
+        
+
+        --color-foreground: 18,18,18;
+        --color-background-contrast: 191,191,191;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 255,255,255;
+        --color-secondary-button: 255,255,255;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 255,255,255;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(255 255 255);
+      }
+      
+        
+        .color-scheme-ae7f87e5-c208-45fa-b99a-2496f1f6f7db {
+          --color-background: 119,169,220;
+        
+          --gradient-background: linear-gradient(99deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 100%);
+        
+
+        
+
+        --color-foreground: 18,18,18;
+        --color-background-contrast: 43,105,168;
+        --color-shadow: 18,18,18;
+        --color-button: 18,18,18;
+        --color-button-text: 255,255,255;
+        --color-secondary-button: 119,169,220;
+        --color-secondary-button-text: 18,18,18;
+        --color-link: 18,18,18;
+        --color-badge-foreground: 18,18,18;
+        --color-badge-background: 119,169,220;
+        --color-badge-border: 18,18,18;
+        --payment-terms-background-color: rgb(119 169 220);
+      }
+      
+
+      body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-14b25ec3-7b30-44c0-97da-acae888494d2, .color-scheme-c86fb03c-963d-4f1d-88c9-40f4e821c8a7, .color-scheme-ae7f87e5-c208-45fa-b99a-2496f1f6f7db {
+        color: rgba(var(--color-foreground), 0.75);
+        background-color: rgb(var(--color-background));
+      }
+
+      :root {
+        --font-body-family: Assistant, sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+        --font-body-weight-bold: 700;
+
+        --font-heading-family: "New York", Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --font-body-scale: 1.0;
+        --font-heading-scale: 1.0;
+
+        --media-padding: px;
+        --media-border-opacity: 0.05;
+        --media-border-width: 1px;
+        --media-radius: 0px;
+        --media-shadow-opacity: 0.0;
+        --media-shadow-horizontal-offset: 0px;
+        --media-shadow-vertical-offset: 4px;
+        --media-shadow-blur-radius: 5px;
+        --media-shadow-visible: 0;
+
+        --page-width: 120rem;
+        --page-width-margin: 0rem;
+
+        --product-card-image-padding: 0.0rem;
+        --product-card-corner-radius: 0.0rem;
+        --product-card-text-alignment: left;
+        --product-card-border-width: 0.0rem;
+        --product-card-border-opacity: 0.1;
+        --product-card-shadow-opacity: 0.2;
+        --product-card-shadow-visible: 1;
+        --product-card-shadow-horizontal-offset: 0.0rem;
+        --product-card-shadow-vertical-offset: 0.4rem;
+        --product-card-shadow-blur-radius: 1.0rem;
+
+        --collection-card-image-padding: 0.0rem;
+        --collection-card-corner-radius: 0.8rem;
+        --collection-card-text-alignment: left;
+        --collection-card-border-width: 0.2rem;
+        --collection-card-border-opacity: 0.1;
+        --collection-card-shadow-opacity: 0.25;
+        --collection-card-shadow-visible: 1;
+        --collection-card-shadow-horizontal-offset: 0.0rem;
+        --collection-card-shadow-vertical-offset: 0.4rem;
+        --collection-card-shadow-blur-radius: 0.5rem;
+
+        --blog-card-image-padding: 0.0rem;
+        --blog-card-corner-radius: 0.0rem;
+        --blog-card-text-alignment: left;
+        --blog-card-border-width: 0.0rem;
+        --blog-card-border-opacity: 0.1;
+        --blog-card-shadow-opacity: 0.0;
+        --blog-card-shadow-visible: 0;
+        --blog-card-shadow-horizontal-offset: 0.0rem;
+        --blog-card-shadow-vertical-offset: 0.4rem;
+        --blog-card-shadow-blur-radius: 0.5rem;
+
+        --badge-corner-radius: 4.0rem;
+
+        --popup-border-width: 1px;
+        --popup-border-opacity: 0.1;
+        --popup-corner-radius: 0px;
+        --popup-shadow-opacity: 0.05;
+        --popup-shadow-horizontal-offset: 0px;
+        --popup-shadow-vertical-offset: 4px;
+        --popup-shadow-blur-radius: 5px;
+
+        --drawer-border-width: 1px;
+        --drawer-border-opacity: 0.1;
+        --drawer-shadow-opacity: 0.0;
+        --drawer-shadow-horizontal-offset: 0px;
+        --drawer-shadow-vertical-offset: 4px;
+        --drawer-shadow-blur-radius: 5px;
+
+        --spacing-sections-desktop: 0px;
+        --spacing-sections-mobile: 0px;
+
+        --grid-desktop-vertical-spacing: 8px;
+        --grid-desktop-horizontal-spacing: 8px;
+        --grid-mobile-vertical-spacing: 4px;
+        --grid-mobile-horizontal-spacing: 4px;
+
+        --text-boxes-border-opacity: 0.9;
+        --text-boxes-border-width: 4px;
+        --text-boxes-radius: 10px;
+        --text-boxes-shadow-opacity: 0.7;
+        --text-boxes-shadow-visible: 1;
+        --text-boxes-shadow-horizontal-offset: 0px;
+        --text-boxes-shadow-vertical-offset: 4px;
+        --text-boxes-shadow-blur-radius: 5px;
+
+        --buttons-radius: 20px;
+        --buttons-radius-outset: 20px;
+        --buttons-border-width: 0px;
+        --buttons-border-opacity: 1.0;
+        --buttons-shadow-opacity: 0.7;
+        --buttons-shadow-visible: 1;
+        --buttons-shadow-horizontal-offset: 2px;
+        --buttons-shadow-vertical-offset: 2px;
+        --buttons-shadow-blur-radius: 10px;
+        --buttons-border-offset: 0.3px;
+
+        --inputs-radius: 0px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 0.55;
+        --inputs-shadow-opacity: 0.0;
+        --inputs-shadow-horizontal-offset: 0px;
+        --inputs-margin-offset: 0px;
+        --inputs-shadow-vertical-offset: 4px;
+        --inputs-shadow-blur-radius: 5px;
+        --inputs-radius-outset: 0px;
+
+        --variant-pills-radius: 40px;
+        --variant-pills-border-width: 1px;
+        --variant-pills-border-opacity: 0.55;
+        --variant-pills-shadow-opacity: 0.0;
+        --variant-pills-shadow-horizontal-offset: 0px;
+        --variant-pills-shadow-vertical-offset: 4px;
+        --variant-pills-shadow-blur-radius: 5px;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.06rem;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    </style>
+
+    <link href="//fysso.shop/cdn/shop/t/1/assets/base.css?v=159841507637079171801742627292" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="//fysso.shop/cdn/shop/t/1/assets/component-cart-items.css?v=123238115697927560811742627292" media="print" onload="this.media='all'">
+      <link rel="preload" as="font" href="//fysso.shop/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=cXZqZzB3LTVrLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=Znlzc28uc2hvcA&h3=Znlzc28ubXlzaG9waWZ5LmNvbQ&hmac=5c5dd47db8a661e6464db7dac4d7faf08740cff94c79058f19390c9b5df509c2" type="font/woff2" crossorigin>
+      
+<script>
+      if (Shopify.designMode) {
+        document.documentElement.classList.add('shopify-design-mode');
+      }
+    </script>
+  <!-- BEGIN app block: shopify://apps/releasit-cod-form/blocks/app-embed/72faf214-4174-4fec-886b-0d0e8d3af9a2 -->
+  
+<script type="application/javascript">
+          var _RSI_COD_FORM_SETTINGS = {"testMode":false,"visiblity":{"enabledOnlyForCountries_array":[],"enabledOnlyForProducts_array":[],"enabledOnlyForTotal":"0,0","isEnabledOnlyForCountries":false,"isEnabledOnlyForProducts":false,"isExcludedForProducts":false,"totalLimitText":"Cash on Delivery is not available for orders above $1000, please use a different payment method."},"cartPage":{"isEnabled":true,"isSeperateButton":true},"productPage":{"hideAddToCartButton":false,"addMode":"product-only","hideQuickCheckoutButtons":true,"ignoreCollectionsV2":false,"ignoreHomeV2":false,"isEnabled":true},"buyNowButton":{"floatingEnabled":true,"floatingPos":"bottom","iconType":"cart2","shakerType":"shake","style":{"bgColor":"rgba(0,0,0,1)","borderColor":"rgba(0,0,0,1)","borderRadius":5,"borderWidth":2,"color":"rgba(255,255,255,1)","fontSizeFactor":0.95,"shadowOpacity":0.5},"subt":"","text":"Order Now - Cash on Delivery"},"autocomplete":{"freeTrial":20,"isEnabled":false},"codFee":{"commission":300,"commissionName":"Cash on Delivery fee","isFeeEnabled":false,"isFeeTaxable":false},"abandonedCheckouts":{"isEnabled":false},"localization":{"countryCode":"IN","country":{"code":"IN","label":{"t":{"en":"India"}},"phonePrefix":"+91"}},"form":{"allTaxesIncluded":{"isEnabled":true,"text":"free shipping & cash on delivery!"},"checkoutLines_array":[{"type":"subtotal","title":"Subtotal"},{"type":"shipping","title":"Shipping"},{"type":"total","title":"Total Payable:"}],"deferLoading":true,"discounts":{"applyButton":{"style":{"bgColor":"rgba(0,0,0,1)"},"text":"Apply"},"checkoutLineText":"Discounts","fieldLabel":"Discount code","isEnabled":true,"limitToOneCode":true},"fields":{"areLabelsEnabled":true,"isCountriesV2":true,"isV2":true,"isV3":true,"items_array":[{"type":"order_summary","isActive":true,"position":0,"backendFields":{"label":{"t":{"en":"Order summary","it":"Riepilogo ordine","es":"Resumen del pedido","fr":"Résumé de la commande"}},"hideEdit":true}},{"type":"totals_summary","isActive":true,"position":1,"backendFields":{"label":{"t":{"en":"Totals summary","it":"Riepilogo totali","es":"Resumen total","fr":"Résumé des totaux"}}}},{"position":2,"type":"shipping_rates","isActive":false,"alignment":"left","backendFields":{"label":{"t":{"en":"Shipping rates","it":"Tariffe di spedizione","es":"Tarifas de envío","fr":"Frais d'envoi"}}}},{"type":"discount_codes","isActive":true,"position":3,"backendFields":{"label":{"t":{"en":"Discount codes","it":"Codici sconto","es":"Códigos de descuento","fr":"Codes de réduction"}}}},{"color":"rgba(0,0,0,1)","text":"Enter your shipping address","position":4,"type":"custom_text","isActive":true,"alignment":"center","fontSizeFactor":0.95,"fontWeight":"600","backendFields":{"label":{"t":{"en":"Custom text","it":"Testo personalizzabile","es":"Texto personalizable","fr":"Texte personnalisé"}}}},{"label":"First name","position":5,"type":"first_name","isActive":true,"required":true,"showIcon":true,"n":{"ph":"First name","minL":2,"maxL":250,"eInv":"type in english & don't use symbols","reg":"^[a-zA-Z ]*$"},"backendFields":{"label":{"t":{"en":"First name field","it":"Campo nome","es":"Campo de nombre","fr":"Champ prénom"}},"name":"first_name"}},{"label":"Last name","position":6,"type":"last_name","isActive":true,"required":true,"showIcon":true,"n":{"ph":"Last name","minL":2,"maxL":250,"eInv":"type in english & don't use symbols","reg":"^[a-zA-Z ]*$"},"backendFields":{"label":{"t":{"en":"Last name field","it":"Campo cognome","es":"Campo de apellido","fr":"Champ nom de famille"}},"name":"last_name"}},{"label":"Mobile number","position":7,"type":"phone","isActive":true,"required":true,"showIcon":true,"n":{"ph":"Mobile Number","minL":10,"maxL":10,"reg":"","pf":"+91"},"backendFields":{"label":{"t":{"en":"Phone field","it":"Campo telefono","es":"Campo de teléfono","fr":"Champ téléphone"}},"name":"phone"}},{"label":"Address","position":8,"type":"address","isActive":true,"required":true,"showIcon":true,"n":{"ph":"Address","minL":10,"maxL":250,"eInv":"please type in english & complete address","reg":"^[a-zA-Z]","pf":""},"backendFields":{"label":{"t":{"en":"Address field","it":"Campo indirizzo","es":"Campo de dirección","fr":"Champ d'adresse"}},"name":"address"}},{"label":"Landmark","position":9,"type":"civic_number","isActive":true,"required":false,"showIcon":true,"n":{"ph":"Nearby school, hospital, shop...","minL":1,"maxL":250,"eInv":"please enter nearby famous place.","reg":"^[a-zA-Z]","pf":""},"backendFields":{"label":{"t":{"en":"Address 2 field","it":"Campo numero civico","es":"Campo de dirección 2","fr":"Champ adresse 2"}},"name":"civic_number"}},{"disableDd":false,"position":10,"label":"State","type":"province_country_field","isActive":true,"required":true,"n":{"ph":"State"},"backendFields":{"label":{"t":{"en":"State field"}},"name":"province_country_field","replacesType":"province","elementType":"select","options":[{"label":"Andaman and Nicobar Islands","value":"AN"},{"label":"Andhra Pradesh","value":"AP"},{"label":"Arunachal Pradesh","value":"AR"},{"label":"Assam","value":"AS"},{"label":"Bihar","value":"BR"},{"label":"Chandigarh","value":"CH"},{"label":"Chhattisgarh","value":"CG"},{"label":"Dadra and Nagar Haveli","value":"DN"},{"label":"Daman and Diu","value":"DD"},{"label":"Delhi","value":"DL"},{"label":"Goa","value":"GA"},{"label":"Gujarat","value":"GJ"},{"label":"Haryana","value":"HR"},{"label":"Himachal Pradesh","value":"HP"},{"label":"Jammu and Kashmir","value":"JK"},{"label":"Jharkhand","value":"JH"},{"label":"Karnataka","value":"KA"},{"label":"Kerala","value":"KL"},{"label":"Ladakh","value":"LA"},{"label":"Lakshadweep","value":"LD"},{"label":"Madhya Pradesh","value":"MP"},{"label":"Maharashtra","value":"MH"},{"label":"Manipur","value":"MN"},{"label":"Meghalaya","value":"ML"},{"label":"Mizoram","value":"MZ"},{"label":"Nagaland","value":"NL"},{"label":"Odisha","value":"OR"},{"label":"Puducherry","value":"PY"},{"label":"Punjab","value":"PB"},{"label":"Rajasthan","value":"RJ"},{"label":"Sikkim","value":"SK"},{"label":"Tamil Nadu","value":"TN"},{"label":"Telangana","value":"TS"},{"label":"Tripura","value":"TR"},{"label":"Uttar Pradesh","value":"UP"},{"label":"Uttarakhand","value":"UK"},{"label":"West Bengal","value":"WB"}]}},{"iconType":"note","label":"City","position":11,"type":"city","isActive":true,"required":true,"showIcon":true,"n":{"ph":"City","minL":2,"maxL":250,"eInv":"","reg":"^[a-zA-Z]","pf":""},"backendFields":{"label":{"t":{"en":"City field","it":"Campo città","es":"Campo de la ciudad","fr":"Champ de la ville"}},"name":"city"}},{"iconType":"hashtag","position":12,"label":"Pincode","type":"pincode_country_field","isActive":true,"required":true,"showIcon":true,"n":{"eInv":"please enter 6-digit pincode.","reg":"","prefillState":false,"ph":"Pincode","minL":6,"maxL":6,"autoCheck":false},"backendFields":{"label":{"t":{"en":"Pincode field"}},"name":"zip_code","replacesType":"zip_code","elementType":"text"}},{"label":"Email","position":13,"type":"email","isActive":false,"required":false,"showIcon":true,"n":{"ph":"Email","minL":1,"maxL":250},"backendFields":{"label":{"t":{"en":"Email field","it":"Campo email","es":"Campo de correo electrónico","fr":"Champ e-mail"}},"name":"email"}},{"label":"Order note","position":14,"type":"note","isActive":false,"showIcon":true,"required":false,"n":{"ph":"Order note","minL":1,"maxL":250,"eInv":"","reg":"","pf":""},"backendFields":{"label":{"t":{"en":"Order note field","it":"Campo nota sull'ordine","es":"Campo de nota del pedido","fr":"Champ de note de commande"}},"name":"note"}},{"isPreselected":false,"label":"Subscribe to stay updated with new products and offers!","position":15,"type":"newsletter_subscribe_checkbox","isActive":false,"backendFields":{"label":{"t":{"en":"Newsletter field","it":"Campo iscrizione marketing","es":"Campo de inscripción de marketing","fr":"Champ de saisie marketing"}},"name":"newsletter_subscribe_checkbox"}},{"label":"Accept our <a href=\"/policies/terms-of-service\">terms and conditions</a>","position":16,"type":"terms_accept_checkbox","isActive":false,"required":true,"backendFields":{"label":{"t":{"en":"Accept terms field","it":"Campo accettazione dei termini","es":"Campo de aceptación de términos","fr":"Champ d'acceptation des conditions"}},"name":"terms_accept_checkbox"}},{"type":"submit_button","isActive":true,"position":17,"backendFields":{"label":{"t":{"en":"Submit button","it":"Pulsante di invio","es":"Botón de envío","fr":"Bouton de soumission"}}}}],"title":"Enter your shipping address","titleAlign":"left"},"generalTexts":{"free":"Free","selectShippingRate":"Shipping method","errors":{"oneDiscountCodeAllowed":"Only 1 discount per order is allowed.","invalidDiscountCode":"Enter a valid discount code.","invalidGeneric":"Enter a valid value.","invalidPhone":"Enter only 10-digit number...","invalidEmail":"Enter a valid email address.","required":"This field is required."}},"hasDraftChoButton":true,"hasEmbeddedV2":true,"hasInlineVal":true,"hasNewQOSel":true,"header":{"showClose":true,"title":"Please Fill Form To Order","titleStyle":{"alignment":"center","color":"rgba(0,0,0,1)","fontSizeFactor":1,"fontWeight":"600"}},"hideCheckoutLines":false,"isEmbedded":false,"isRtlEnabled":false,"isUsingAppEmbed":true,"isUsingScriptTag":true,"isUsingSpCdn":true,"style":{"borderColor":"rgba(0,0,0,1)","bgColor":"rgba(255,255,255,1)","borderRadius":6,"color":"rgba(0,0,0,1)","fullScr":false,"borderWidth":2,"fontSizeFactor":1,"shadowOpacity":0.2},"submitButton":{"shakerType":"pulse","style":{"borderColor":"rgba(0,0,0,1)","bgColor":"rgba(29, 158, 6, 1)","borderRadius":6,"color":"rgba(255,255,255,1)","borderWidth":2,"fontSizeFactor":1,"shadowOpacity":0.6},"subt":"(free cash on delivery)","text":"COMPLETE ORDER - {order_total}","iconType":"none"},"useMoneyFormat":true,"useMoneyFormatV2":true,"currentPage":"","currentStatus":"","postUrl":"/apps/rsi-cod-form-do-not-change/create-order"},"tracking":{"disableAllEvents":false,"items_array":[]},"shippingRates":{"isAutomatic":false,"sortMode":"price-low-high","items_array":[{"type":"custom","title":"Free shipping","condition":[],"price":0,"priority":1},{"type":"default","title":"Default rate","price":0,"priority":0}]},"integrations":{"codFee":false},"general":{"blockQuantity":"0","bsMess":"","disableAutofill":false,"disableAutomaticDs":false,"noTagsToOrders":false,"paymentMethod":{"name":"Cash on Delivery (COD)","isEnabled":true},"redirectToCustomPage":{"type":"url","url":"","isEnabled":false},"saveOrdersAsDrafts":false,"saveUtms":false,"sendSms":true},"upsells":{"addButton":{"shakerType":"none","style":{"borderColor":"rgba(0,0,0,1)","bgColor":"rgba(0,0,0,1)","color":"rgba(255,255,255,1)","borderRadius":2,"shadowOpacity":0.1,"borderWidth":0},"text":"Add to my order"},"isPostPurchase":true,"maxNum":2,"noThanksButton":{"style":{"borderColor":"rgba(0,0,0,1)","bgColor":"rgba(255,255,255,1)","color":"rgba(0,0,0,1)","borderRadius":2,"shadowOpacity":0.1,"borderWidth":2},"text":"No thank you, complete my order"},"showQuantitySelector":false,"topText":"Add {product_name} to your order!","isEnabled":false,"postUrl":"/apps/rsi-cod-form-do-not-change/get-upsell"},"reportPostUrl":"/apps/rsi-cod-form-do-not-change/send-report","messOtp":{"attempts":3,"isEnabled":false,"mode":"sms","smsMess":"{otp_code} is your verification code for your order.","tAttemptsExceeded":"You have reached the limit of resends, please try again with a different phone number.","tChangePhone":"Change phone number","tDescription":"A verification code was sent via SMS to your phone number {phone_number}. Enter your code below to verify your phone number:","tInvalidCode":"The code you entered is not valid, please try again.","tNewCodeSent":"A new code was sent via SMS to your phone number {phone_number}. Enter the code above.","tResend":"Resend code","tTitle":"Verify your phone number to complete your order","tVerify":"Verify","tYourCode":"Your code","postUrl":"/apps/rsi-cod-form-do-not-change/get-phone-number-otp"},"isSpCdnActive":true};
+    </script>
+  
+
+
+
+
+<script src="https://cdn.shopify.com/extensions/a2d6d48b-2eb3-4cff-9653-dc909ed26773/releasit-cod-form-107/assets/datepicker.min.js" defer></script><script src="https://cdn.shopify.com/extensions/a2d6d48b-2eb3-4cff-9653-dc909ed26773/releasit-cod-form-107/assets/get-form-script.min.js" defer></script><script id="rsi-cod-form-product-cache" type="application/json">null
+</script>
+<script id="rsi-cod-form-product-collections-cache" type="application/json">null
+</script>
+
+
+
+<script type="application/javascript">
+  
+  var _RSI_COD_FORM_MONEY_FORMAT = 'Rs. {{amount}}';
+  
+</script>
+<script type="application/javascript">
+  var _RSI_COD_FORM_SWIFFY_JS_URL = "https://cdn.shopify.com/extensions/a2d6d48b-2eb3-4cff-9653-dc909ed26773/releasit-cod-form-107/assets/swiffy-slider.min.js";
+  var _RSI_COD_FORM_SWIFFY_CSS_URL = "https://cdn.shopify.com/extensions/a2d6d48b-2eb3-4cff-9653-dc909ed26773/releasit-cod-form-107/assets/swiffy-slider.min.css";
+</script>
+<script>
+  var _RSI_COD_FORM_CSS_URL = "https://cdn.shopify.com/extensions/a2d6d48b-2eb3-4cff-9653-dc909ed26773/releasit-cod-form-107/assets/style.min.css";
+  var _RSI_COD_FORM_CSS_DATE_URL = "https://cdn.shopify.com/extensions/a2d6d48b-2eb3-4cff-9653-dc909ed26773/releasit-cod-form-107/assets/datepicker.min.css";
+
+  var RSI_CSS_LOADER = function () {
+    var head = document.head;
+    var link1 = document.createElement("link");
+
+    link1.type = "text/css";
+    link1.rel = "stylesheet";
+    link1.href = _RSI_COD_FORM_CSS_URL;
+
+    var link2 = document.createElement("link");
+
+    link2.type = "text/css";
+    link2.rel = "stylesheet";
+    link2.href = _RSI_COD_FORM_CSS_DATE_URL;
+
+    head.appendChild(link1);
+    head.appendChild(link2);
+  };
+
+  if (
+    document.readyState === "interactive" ||
+    document.readyState === "complete"
+  ) {
+    RSI_CSS_LOADER();
+  } else {
+    document.addEventListener("DOMContentLoaded", RSI_CSS_LOADER);
+  }
+</script>
+<style>
+  button._rsi-buy-now-button,
+  div._rsi-buy-now-button,
+  a._rsi-buy-now-button {
+    width: 100%;
+    font-weight: 600;
+    padding: 12px 20px 14px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.3;
+    margin-top: 10px;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-decoration: none;
+    font-family: inherit;
+    min-height: 51px;
+    height: auto;
+    border: 0 !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  ._rsi-buy-now-button > span {
+    font-weight: inherit !important;
+    font-size: inherit !important;
+    text-align: inherit !important;
+    line-height: inherit !important;
+    text-decoration: inherit !important;
+    font-family: inherit !important;
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1;
+    color: inherit !important;
+    margin: 0;
+  }
+
+  product-form.product-form .product-form__buttons ._rsi-buy-now-button._rsi-buy-now-button-product {
+    margin-bottom: 10px;
+  }
+
+  ._rsi-buy-now-button-subtitle {
+    display: block;
+    font-weight: 400;
+    opacity: 0.95;
+    font-size: 90%;
+    margin-top: 3px;
+    color: inherit !important;
+  }
+
+  ._rsi-buy-now-button ._rsi-button-icon {
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    stroke: none;
+    height: auto;
+    width: auto;
+  }
+
+  ._rsi-buy-now-button ._rsi-button-icon._rsi-button-icon-left {
+    -webkit-box-ordinal-group: 1;
+    -ms-flex-order: 0;
+    order: 0;
+    margin-right: 7px;
+    margin-left: 0;
+  }
+
+  ._rsi-buy-now-button._rsi-buy-now-button-with-subtitle ._rsi-button-icon._rsi-button-icon-left {
+    margin-right: 14px;
+  }
+
+  ._rsi-buy-now-button ._rsi-button-icon._rsi-button-icon-right {
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 2;
+    order: 2;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+
+  ._rsi-buy-now-button._rsi-buy-now-button-with-subtitle ._rsi-button-icon._rsi-button-icon-right {
+    margin-left: 14px;
+  }
+
+  ._rsi-buy-now-button-floating {
+    width: 100%;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100099900;
+    padding: 0;
+  }
+
+  ._rsi-buy-now-button-floating[data-position="top"] {
+    bottom: unset;
+    top: 0;
+  }
+
+  ._rsi-buy-now-button-floating ._rsi-buy-now-button {
+    min-height: 53px;
+    margin-top: 0;
+  }
+
+  #_rsi-cod-form-embed,
+  #_rsi-cod-form-modal {
+    display: none;
+  }
+</style>
+
+<!-- BEGIN app snippet: metafields-handlers -->
+
+
+
+
+
+
+
+<!-- END app snippet -->
+
+<!-- END app block --><link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 93105652030,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,d,r,n,o,i){if(void 0===i&&(i={}),!Boolean(null===(t=null===(a=window.Shopify)||void 0===a?void 0:a.analytics)||void 0===t?void 0:t.replayQueue)){var a,t;window.Shopify=window.Shopify||{};var s=window.Shopify;s.analytics=s.analytics||{};var l=s.analytics;l.replayQueue=[],l.publish=function(e,d,r){return l.replayQueue.push([e,d,r]),!0};try{self.performance.mark("wpm:start")}catch(e){}var u=function(){var e={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[2-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[2-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[1-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/},d=e.modern,r=e.legacy,n=navigator.userAgent;return n.match(d)?"modern":n.match(r)?"legacy":"unknown"}(),c="modern"===u?"modern":"legacy",f=(null!=o?o:{modern:"",legacy:""})[c],m=function(e){return[e.baseUrl,"/wpm","/b",e.hashVersion,"modern"===e.buildTarget?"m":"l",".js"].join("")}({baseUrl:r,hashVersion:n,buildTarget:c}),p=function(e){var d=e.version,r=e.bundleTarget,n=e.surface,o=e.pageUrl,i=e.monorailEndpoint;return{emit:function(e){var a=e.status,t=e.errorMsg,s=(new Date).getTime(),l=JSON.stringify({metadata:{event_sent_at_ms:s},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:d,bundle_target:r,page_url:o,status:a,surface:n,error_msg:t},metadata:{event_created_at_ms:s}}]});if(!i)return console&&console.warn&&console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{return self.navigator.sendBeacon.bind(self.navigator)(i,l)}catch(e){}var u=new XMLHttpRequest;try{return u.open("POST",i,!0),u.setRequestHeader("Content-Type","text/plain"),u.send(l),!0}catch(e){return console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}}}({version:n,bundleTarget:u,surface:e.surface,pageUrl:self.location.href,monorailEndpoint:e.monorailEndpoint});try{i.browserTarget=u,function(e){var d=e.src,r=e.async,n=void 0===r||r,o=e.onload,i=e.onerror,a=e.sri,t=e.scriptDataAttributes,s=void 0===t?{}:t,l=document.createElement("script"),u=document.querySelector("head"),c=document.querySelector("body");if(l.async=n,l.src=d,a&&(l.integrity=a,l.crossOrigin="anonymous"),s)for(var f in s)if(Object.prototype.hasOwnProperty.call(s,f))try{l.dataset[f]=s[f]}catch(e){}if(o&&l.addEventListener("load",o),i&&l.addEventListener("error",i),u)u.appendChild(l);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(l)}}({src:m,async:!0,onload:function(){if(!function(){var e,d;return Boolean(null===(d=null===(e=window.Shopify)||void 0===e?void 0:e.analytics)||void 0===d?void 0:d.initialized)}()){var r=window.webPixelsManager.init(e)||void 0;if(r){d(r);var n=window.Shopify.analytics;n.replayQueue.forEach((function(e){var d=e[0],n=e[1],o=e[2];r.publishCustomEvent(d,n,o)})),n.replayQueue=[],n.publish=r.publishCustomEvent,n.visitor=r.visitor,n.initialized=!0}}},onerror:function(){return p.emit({status:"failed",errorMsg:"".concat(m," has failed to load")})},sri:function(e){var d=/^sha384-[A-Za-z0-9+/=]+$/;return"string"==typeof e&&d.test(e)}(f)?f:"",scriptDataAttributes:i}),p.emit({status:"loading"})}catch(e){p.emit({status:"failed",errorMsg:(null==e?void 0:e.message)||"Unknown error"})}}})({shopId: 93105652030,storefrontBaseUrl: "https://fysso.shop",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"1238696254","configuration":"{\"pixel_id\":\"673898421869455\",\"pixel_type\":\"facebook_pixel\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"8d894c63179843e74a9691414b5ad83d","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0411","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0411","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: true,effectiveTopLevelDomain: "",initData: {"shop":{"name":"Fysso","paymentSettings":{"currencyCode":"INR"},"myshopifyDomain":"qvjg0w-5k.myshopify.com","countryCode":"IN","storefrontUrl":"https://fysso.shop"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"purchasingCompany":null},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed", {});},"https://fysso.shop/cdn","5491cac6w827a75f8p24dc5a71mdac3a6fe",{"modern":"","legacy":""},{"shopId":"93105652030","storefrontBaseUrl":"https://fysso.shop","extensionBaseUrl":"https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[]","isMerchantRequest":"true","hashVersion":"5491cac6w827a75f8p24dc5a71mdac3a6fe"});</script><script>
+  window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+  window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+  window.ShopifyAnalytics.meta.currency = 'INR';
+  var meta = {"page":{"pageType":"home"}};
+  for (var attr in meta) {
+    window.ShopifyAnalytics.meta[attr] = meta[attr];
+  }
+</script>
+<script class="analytics">
+  (function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 93105652030,
+      theme_id: 176900931902,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//fysso.shop/cdn/s/trekkie.storefront.67031bb556ecae068d9d26b268af7634adc01a0c.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//fysso.shop/cdn/s/trekkie.storefront.67031bb556ecae068d9d26b268af7634adc01a0c.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//fysso.shop/cdn/s/trekkie.storefront.67031bb556ecae068d9d26b268af7634adc01a0c.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":93105652030,"isMerchantRequest":true,"themeId":176900931902,"themeCityHash":"10685745489365068147","contentLanguage":"en","currency":"INR"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"home","shopifyEmitted":true});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//fysso.shop/cdn/shopifycloud/shopify/assets/shop_events_listener-f55dd2979ec32029c7d9e0b454ab8b33f79c01ca039d17a6f5c9b95647564b19.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script
+  defer
+  src="https://fysso.shop/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.5.0.min.js"
+  data-application="storefront-renderer"
+  data-shop-id="93105652030"
+  data-render-region="gcp-us-east1"
+  data-page-type="index"
+  data-theme-instance-id="176900931902"
+  data-monorail-region="shop_domain"
+  data-resource-timing-sampling-rate="10"
+></script>
+</head>
+
+  <body class="gradient">
+    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+      Skip to content
+    </a><!-- BEGIN sections: header-group -->
+<div id="shopify-section-sections--24311257235774__announcement-bar" class="shopify-section shopify-section-group-header-group announcement-bar-section"><link href="//fysso.shop/cdn/shop/t/1/assets/component-slideshow.css?v=17933591812325749411742627292" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-slider.css?v=14039311878856620671742627292" rel="stylesheet" type="text/css" media="all" />
+
+  <link href="//fysso.shop/cdn/shop/t/1/assets/component-list-social.css?v=35792976012981934991742627292" rel="stylesheet" type="text/css" media="all" />
+
+
+<div
+  class="utility-bar color-scheme-2 gradient utility-bar--bottom-border"
+>
+  <div class="page-width utility-bar__grid"><div
+        class="announcement-bar"
+        role="region"
+        aria-label="Announcement"
+        
+      ><a
+              href="/products/touch-up-4-in-1-makeup-pen"
+              class="announcement-bar__link link link--text focus-inset animate-arrow"
+            ><p class="announcement-bar__message h5">
+            <span>Up to 60% OFF + COD Available 🚀 Shop Now!</span><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-arrow" viewBox="0 0 14 10"><path fill="currentColor" fill-rule="evenodd" d="M8.537.808a.5.5 0 0 1 .817-.162l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 1 1-.708-.708L11.793 5.5H1a.5.5 0 0 1 0-1h10.793L8.646 1.354a.5.5 0 0 1-.109-.546" clip-rule="evenodd"/></svg>
+</p></a></div><div class="localization-wrapper">
+</div>
+  </div>
+</div>
+
+
+</div><div id="shopify-section-sections--24311257235774__header" class="shopify-section shopify-section-group-header-group section-header"><link rel="stylesheet" href="//fysso.shop/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991742627292" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//fysso.shop/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851742627292" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="//fysso.shop/cdn/shop/t/1/assets/component-menu-drawer.css?v=147478906057189667651742627292" media="print" onload="this.media='all'">
+<link
+  rel="stylesheet"
+  href="//fysso.shop/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221742627292"
+  media="print"
+  onload="this.media='all'"
+><link rel="stylesheet" href="//fysso.shop/cdn/shop/t/1/assets/component-mega-menu.css?v=10110889665867715061742627292" media="print" onload="this.media='all'"><style>
+  header-drawer {
+    justify-self: start;
+    margin-left: -1.2rem;
+  }@media screen and (min-width: 990px) {
+      header-drawer {
+        display: none;
+      }
+    }.menu-drawer-container {
+    display: flex;
+  }
+
+  .list-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-menu--inline {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+
+  summary.list-menu__item {
+    padding-right: 2.7rem;
+  }
+
+  .list-menu__item {
+    display: flex;
+    align-items: center;
+    line-height: calc(1 + 0.3 / var(--font-body-scale));
+  }
+
+  .list-menu__item--link {
+    text-decoration: none;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    line-height: calc(1 + 0.8 / var(--font-body-scale));
+  }
+
+  @media screen and (min-width: 750px) {
+    .list-menu__item--link {
+      padding-bottom: 0.5rem;
+      padding-top: 0.5rem;
+    }
+  }
+</style><style data-shopify>.header {
+    padding: 4px 3rem 0px 3rem;
+  }
+
+  .section-header {
+    position: sticky; /* This is for fixing a Safari z-index issue. PR #2147 */
+    margin-bottom: 0px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-header {
+      margin-bottom: 0px;
+    }
+  }
+
+  @media screen and (min-width: 990px) {
+    .header {
+      padding-top: 8px;
+      padding-bottom: 0px;
+    }
+  }</style><script src="//fysso.shop/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491742627292" defer="defer"></script>
+
+<div
+  
+  class="header-wrapper color-scheme-1 gradient header-wrapper--border-bottom"
+><header class="header header--top-center header--mobile-center page-width header--has-menu header--has-social header--has-account">
+
+<header-drawer data-breakpoint="tablet">
+  <details id="Details-menu-drawer-container" class="menu-drawer-container">
+    <summary
+      class="header__icon header__icon--menu header__icon--summary link focus-inset"
+      aria-label="Menu"
+    >
+      <span><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-hamburger" viewBox="0 0 18 16"><path fill="currentColor" d="M1 .5a.5.5 0 1 0 0 1h15.71a.5.5 0 0 0 0-1zM.5 8a.5.5 0 0 1 .5-.5h15.71a.5.5 0 0 1 0 1H1A.5.5 0 0 1 .5 8m0 7a.5.5 0 0 1 .5-.5h15.71a.5.5 0 0 1 0 1H1a.5.5 0 0 1-.5-.5"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+    </summary>
+    <div id="menu-drawer" class="gradient menu-drawer motion-reduce color-scheme-2">
+      <div class="menu-drawer__inner-container">
+        <div class="menu-drawer__navigation-container">
+          <nav class="menu-drawer__navigation">
+            <ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><a
+                      id="HeaderDrawer-home"
+                      href="/"
+                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset menu-drawer__menu-item--active"
+                      
+                        aria-current="page"
+                      
+                    >
+                      Home
+                    </a></li><li><a
+                      id="HeaderDrawer-contact-us"
+                      href="/pages/contact"
+                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
+                      
+                    >
+                      Contact Us
+                    </a></li><li><a
+                      id="HeaderDrawer-girls-fav"
+                      href="/products/fine-necklace-silver-beading-chain"
+                      class="menu-drawer__menu-item list-menu__item link link--text focus-inset"
+                      
+                    >
+                      Girls Fav..
+                    </a></li></ul>
+          </nav>
+          <div class="menu-drawer__utility-links"><a
+                href="https://shopify.com/93105652030/account?locale=en&region_country=IN"
+                class="menu-drawer__account link focus-inset h5 medium-hide large-up-hide"
+                rel="nofollow"
+              ><account-icon><span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-account" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M6 4.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-4a4 4 0 1 0 0 8 4 4 0 0 0 0-8m5.58 12.15c1.12.82 1.83 2.24 1.91 4.85H1.51c.08-2.6.79-4.03 1.9-4.85C4.66 11.75 6.5 11.5 9 11.5s4.35.26 5.58 1.15M9 10.5c-2.5 0-4.65.24-6.17 1.35C1.27 12.98.5 14.93.5 18v.5h17V18c0-3.07-.77-5.02-2.33-6.15-1.52-1.1-3.67-1.35-6.17-1.35" clip-rule="evenodd"/></svg>
+</span></account-icon>Log in</a><div class="menu-drawer__localization header-localization">
+</div><ul class="list list-social list-unstyled" role="list"><li class="list-social__item">
+                  <a href="#" class="list-social__link link">
+                    <span class="svg-wrapper"><svg class="icon icon-twitter" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M7.273 2.8 10.8 7.822 15.218 2.8h1.768l-5.4 6.139 5.799 8.254h-4.658l-3.73-5.31-4.671 5.31H2.558l5.654-6.427L2.615 2.8zm6.242 13.125L5.07 4.109h1.405l8.446 11.816z" clip-rule="evenodd"/></svg>
+</span>
+                    <span class="visually-hidden">X (Twitter)</span>
+                  </a>
+                </li><li class="list-social__item">
+                  <a href="#" class="list-social__link link">
+                    <span class="svg-wrapper"><svg class="icon icon-instagram" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M13.23 3.492c-.84-.037-1.096-.046-3.23-.046-2.144 0-2.39.01-3.238.055-.776.027-1.195.164-1.487.273a2.4 2.4 0 0 0-.912.593 2.5 2.5 0 0 0-.602.922c-.11.282-.238.702-.274 1.486-.046.84-.046 1.095-.046 3.23s.01 2.39.046 3.229c.004.51.097 1.016.274 1.495.145.365.319.639.602.913.282.282.538.456.92.602.474.176.974.268 1.479.273.848.046 1.103.046 3.238.046s2.39-.01 3.23-.046c.784-.036 1.203-.164 1.486-.273.374-.146.648-.329.921-.602.283-.283.447-.548.602-.922.177-.476.27-.979.274-1.486.037-.84.046-1.095.046-3.23s-.01-2.39-.055-3.229c-.027-.784-.164-1.204-.274-1.495a2.4 2.4 0 0 0-.593-.913 2.6 2.6 0 0 0-.92-.602c-.284-.11-.703-.237-1.488-.273ZM6.697 2.05c.857-.036 1.131-.045 3.302-.045a63 63 0 0 1 3.302.045c.664.014 1.321.14 1.943.374a4 4 0 0 1 1.414.922c.41.397.728.88.93 1.414.23.622.354 1.279.365 1.942C18 7.56 18 7.824 18 10.005c0 2.17-.01 2.444-.046 3.292-.036.858-.173 1.442-.374 1.943-.2.53-.474.976-.92 1.423a3.9 3.9 0 0 1-1.415.922c-.51.191-1.095.337-1.943.374-.857.036-1.122.045-3.302.045-2.171 0-2.445-.009-3.302-.055-.849-.027-1.432-.164-1.943-.364a4.15 4.15 0 0 1-1.414-.922 4.1 4.1 0 0 1-.93-1.423c-.183-.51-.329-1.085-.365-1.943C2.009 12.45 2 12.167 2 10.004c0-2.161 0-2.435.055-3.302.027-.848.164-1.432.365-1.942a4.4 4.4 0 0 1 .92-1.414 4.2 4.2 0 0 1 1.415-.93c.51-.183 1.094-.33 1.943-.366Zm.427 4.806a4.105 4.105 0 1 1 5.805 5.805 4.105 4.105 0 0 1-5.805-5.805m1.882 5.371a2.668 2.668 0 1 0 2.042-4.93 2.668 2.668 0 0 0-2.042 4.93m5.922-5.942a.958.958 0 1 1-1.355-1.355.958.958 0 0 1 1.355 1.355" clip-rule="evenodd"/></svg>
+</span>
+                    <span class="visually-hidden">Instagram</span>
+                  </a>
+                </li><li class="list-social__item">
+                  <a href="#" class="list-social__link link">
+                    <span class="svg-wrapper"><svg class="icon icon-snapchat" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M17.388 15.396a5 5 0 0 1-1.111.445c-.074.23-.236.564-.596.813a1.9 1.9 0 0 1-.9.308c-.14.015-.313.021-.443.026l-.092.004c-.317.014-.624.042-.958.154l-.002.001a1.7 1.7 0 0 0-.331.168l-.138.085c-.14.087-.33.205-.497.298a4.6 4.6 0 0 1-2.321.602 4.55 4.55 0 0 1-2.315-.602c-.164-.091-.355-.21-.495-.297l-.14-.086a2 2 0 0 0-.338-.172 3.4 3.4 0 0 0-.96-.154l-.09-.003c-.13-.006-.304-.013-.445-.027-.15-.016-.541-.06-.9-.31a1.56 1.56 0 0 1-.593-.809 4.8 4.8 0 0 1-1.112-.446 1.9 1.9 0 0 1-.628-.535 1.44 1.44 0 0 1-.21-1.306 1.5 1.5 0 0 1 .53-.724c.137-.104.27-.17.323-.196 1.23-.604 1.77-1.38 1.996-1.833l-.18-.118c-.167-.11-.342-.223-.438-.291-.252-.178-.572-.449-.779-.85a1.8 1.8 0 0 1-.087-1.473l.002-.005c.344-.922 1.2-1.14 1.704-1.14h.07q.005-.335.033-.678A4.6 4.6 0 0 1 6.132 3.35l.007-.007a5.1 5.1 0 0 1 1.773-1.247 5.1 5.1 0 0 1 2.108-.394c2.272.008 3.522 1.273 3.855 1.655a4.6 4.6 0 0 1 1.176 2.884c.019.227.028.456.032.678h.088c.521.005 1.346.242 1.684 1.133l.005.012a1.8 1.8 0 0 1-.09 1.477c-.209.401-.531.672-.786.85a19 19 0 0 1-.402.267l-.209.138c.224.45.76 1.226 1.994 1.827l.01.004.008.004c.056.029.188.097.325.203.12.093.388.323.52.724.16.493.028.963-.207 1.292a1.9 1.9 0 0 1-.627.541zm-3.315-5.268c.088-.083.33-.248.574-.41l.255-.169.084-.055.217-.144.018-.013.018-.012c.36-.25.514-.504.401-.811-.081-.214-.28-.295-.486-.295a.8.8 0 0 0-.194.02 3 3 0 0 0-.403.12l-.179.068-.013.005-.058.023q-.139.055-.248.093-.05.017-.091.027c-.029.012-.057.012-.082.012-.117 0-.161-.053-.153-.196l.003-.048.017-.264a20 20 0 0 0 .03-.785v-.03a10 10 0 0 0-.03-.943 3.3 3.3 0 0 0-.85-2.102c-.199-.23-1.13-1.217-2.904-1.217a3.8 3.8 0 0 0-1.583.292c-.5.21-.951.527-1.32.93a3.3 3.3 0 0 0-.851 2.101 10 10 0 0 0-.026 1.198l.01.246a22 22 0 0 0 .033.576q0 .028.003.054c.008.135-.032.192-.154.192l-.08-.008-.087-.025a5 5 0 0 1-.254-.096l-.054-.022-.072-.029-.123-.046-.008-.003a3 3 0 0 0-.447-.128 1 1 0 0 0-.142-.011c-.207 0-.405.077-.486.295-.114.307.04.561.397.811l.089.061.274.181.238.156c.243.161.482.323.569.405.175.165.16.293.14.452l-.002.02c-.014.115-.304 1.492-1.926 2.641a6 6 0 0 1-.51.327 7 7 0 0 1-.428.228c-.141.07-.388.217.045.459q.126.069.24.121h.001c.247.113.46.174.65.225l.035.01q.089.022.17.046c.14.042.267.088.382.163.16.104.182.274.203.432.018.133.035.258.133.326.117.082.333.091.623.103.375.015.873.036 1.443.225.287.097.536.253.8.416.514.322 1.08.674 2.075.674 1 0 1.572-.356 2.087-.677.261-.162.508-.315.788-.409.572-.192 1.073-.212 1.448-.226.289-.011.503-.02.617-.102.101-.068.118-.193.135-.328.021-.157.044-.328.206-.434.116-.075.244-.121.388-.163l.2-.056a4 4 0 0 0 .642-.222 4 4 0 0 0 .248-.124c.429-.242.186-.394.04-.468a7 7 0 0 1-.423-.223l-.01-.005a7 7 0 0 1-.5-.319c-1.629-1.145-1.916-2.526-1.93-2.649v-.002c-.024-.163-.044-.293.138-.465m-10.3 4.838h.002Zm.106-1.842h-.002Zm-.249 2.255" clip-rule="evenodd"/></svg>
+</span>
+                    <span class="visually-hidden">Snapchat</span>
+                  </a>
+                </li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </details>
+</header-drawer>
+
+
+<details-modal class="header__search">
+  <details>
+    <summary
+      class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
+      aria-haspopup="dialog"
+      aria-label="Search"
+    >
+      <span>
+        <span class="svg-wrapper"><svg fill="none" class="icon icon-search" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 1 1 2.85 3.5a5.784 5.784 0 0 1 8.18 8.18m.26 1.12a6.78 6.78 0 1 1 .72-.7l5.4 5.4a.5.5 0 1 1-.71.7z" clip-rule="evenodd"/></svg>
+</span>
+        <span class="svg-wrapper header__icon-close"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+      </span>
+    </summary>
+    <div
+      class="search-modal modal__content gradient"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Search"
+    >
+      <div class="modal-overlay"></div>
+      <div
+        class="search-modal__content search-modal__content-bottom"
+        tabindex="-1"
+      ><search-form class="search-modal__form"><form action="/search" method="get" role="search" class="search search-modal__form">
+          <div class="field">
+            <input
+              class="search__input field__input"
+              id="Search-In-Modal-1"
+              type="search"
+              name="q"
+              value=""
+              placeholder="Search">
+            <label class="field__label" for="Search-In-Modal-1">Search</label>
+            <input type="hidden" name="options[prefix]" value="last">
+            <button
+              type="reset"
+              class="reset__button field__button hidden"
+              aria-label="Clear search term"
+            >
+              <span class="svg-wrapper"><svg fill="none" stroke="currentColor" class="icon icon-close" viewBox="0 0 18 18"><circle cx="9" cy="9" r="8.5" stroke-opacity=".2"/><path stroke-linecap="round" stroke-linejoin="round" d="M11.83 11.83 6.172 6.17M6.229 11.885l5.544-5.77"/></svg>
+</span>
+            </button>
+            <button class="search__button field__button" aria-label="Search">
+              <span class="svg-wrapper"><svg fill="none" class="icon icon-search" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 1 1 2.85 3.5a5.784 5.784 0 0 1 8.18 8.18m.26 1.12a6.78 6.78 0 1 1 .72-.7l5.4 5.4a.5.5 0 1 1-.71.7z" clip-rule="evenodd"/></svg>
+</span>
+            </button>
+          </div></form></search-form><button
+          type="button"
+          class="search-modal__close-button modal__close-button link link--text focus-inset"
+          aria-label="Close"
+        >
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+        </button>
+      </div>
+    </div>
+  </details>
+</details-modal>
+<h1 class="header__heading"><a href="/" class="header__heading-link link link--text focus-inset"><div class="header__heading-logo-wrapper">
+            
+            <img src="//fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=600" alt="Fysso" srcset="//fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=160 160w, //fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=240 240w, //fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=320 320w" width="160" height="76.31799163179916" loading="eager" class="header__heading-logo motion-reduce" sizes="(max-width: 320px) 50vw, 160px" style="object-position:20.2158% 23.9442%;">
+          </div></a></h1>
+
+<nav class="header__inline-menu">
+  <ul class="list-menu list-menu--inline" role="list"><li><a
+            id="HeaderMenu-home"
+            href="/"
+            class="header__menu-item list-menu__item link link--text focus-inset"
+            
+              aria-current="page"
+            
+          >
+            <span
+                class="header__active-menu-item"
+              
+            >Home</span>
+          </a></li><li><a
+            id="HeaderMenu-contact-us"
+            href="/pages/contact"
+            class="header__menu-item list-menu__item link link--text focus-inset"
+            
+          >
+            <span
+            >Contact Us</span>
+          </a></li><li><a
+            id="HeaderMenu-girls-fav"
+            href="/products/fine-necklace-silver-beading-chain"
+            class="header__menu-item list-menu__item link link--text focus-inset"
+            
+          >
+            <span
+            >Girls Fav..</span>
+          </a></li></ul>
+</nav>
+
+<div class="header__icons">
+      <div class="desktop-localization-wrapper">
+</div>
+      
+
+<details-modal class="header__search">
+  <details>
+    <summary
+      class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
+      aria-haspopup="dialog"
+      aria-label="Search"
+    >
+      <span>
+        <span class="svg-wrapper"><svg fill="none" class="icon icon-search" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 1 1 2.85 3.5a5.784 5.784 0 0 1 8.18 8.18m.26 1.12a6.78 6.78 0 1 1 .72-.7l5.4 5.4a.5.5 0 1 1-.71.7z" clip-rule="evenodd"/></svg>
+</span>
+        <span class="svg-wrapper header__icon-close"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+      </span>
+    </summary>
+    <div
+      class="search-modal modal__content gradient"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Search"
+    >
+      <div class="modal-overlay"></div>
+      <div
+        class="search-modal__content search-modal__content-bottom"
+        tabindex="-1"
+      ><search-form class="search-modal__form"><form action="/search" method="get" role="search" class="search search-modal__form">
+          <div class="field">
+            <input
+              class="search__input field__input"
+              id="Search-In-Modal"
+              type="search"
+              name="q"
+              value=""
+              placeholder="Search">
+            <label class="field__label" for="Search-In-Modal">Search</label>
+            <input type="hidden" name="options[prefix]" value="last">
+            <button
+              type="reset"
+              class="reset__button field__button hidden"
+              aria-label="Clear search term"
+            >
+              <span class="svg-wrapper"><svg fill="none" stroke="currentColor" class="icon icon-close" viewBox="0 0 18 18"><circle cx="9" cy="9" r="8.5" stroke-opacity=".2"/><path stroke-linecap="round" stroke-linejoin="round" d="M11.83 11.83 6.172 6.17M6.229 11.885l5.544-5.77"/></svg>
+</span>
+            </button>
+            <button class="search__button field__button" aria-label="Search">
+              <span class="svg-wrapper"><svg fill="none" class="icon icon-search" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 1 1 2.85 3.5a5.784 5.784 0 0 1 8.18 8.18m.26 1.12a6.78 6.78 0 1 1 .72-.7l5.4 5.4a.5.5 0 1 1-.71.7z" clip-rule="evenodd"/></svg>
+</span>
+            </button>
+          </div></form></search-form><button
+          type="button"
+          class="search-modal__close-button modal__close-button link link--text focus-inset"
+          aria-label="Close"
+        >
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+        </button>
+      </div>
+    </div>
+  </details>
+</details-modal>
+
+<a
+          href="https://shopify.com/93105652030/account?locale=en&region_country=IN"
+          class="header__icon header__icon--account link focus-inset small-hide"
+          rel="nofollow"
+        ><account-icon><span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-account" viewBox="0 0 18 19"><path fill="currentColor" fill-rule="evenodd" d="M6 4.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-4a4 4 0 1 0 0 8 4 4 0 0 0 0-8m5.58 12.15c1.12.82 1.83 2.24 1.91 4.85H1.51c.08-2.6.79-4.03 1.9-4.85C4.66 11.75 6.5 11.5 9 11.5s4.35.26 5.58 1.15M9 10.5c-2.5 0-4.65.24-6.17 1.35C1.27 12.98.5 14.93.5 18v.5h17V18c0-3.07-.77-5.02-2.33-6.15-1.52-1.1-3.67-1.35-6.17-1.35" clip-rule="evenodd"/></svg>
+</span></account-icon><span class="visually-hidden">Log in</span>
+        </a><a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
+        
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-cart-empty" viewBox="0 0 40 40"><path fill="currentColor" fill-rule="evenodd" d="M15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33L28.4 11.8zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1-9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z"/></svg>
+</span>
+        
+        <span class="visually-hidden">Cart</span></a>
+    </div>
+  </header>
+</div>
+
+<cart-notification>
+  <div class="cart-notification-wrapper page-width">
+    <div
+      id="cart-notification"
+      class="cart-notification focus-inset color-scheme-1 gradient"
+      aria-modal="true"
+      aria-label="Item added to your cart"
+      role="dialog"
+      tabindex="-1"
+    >
+      <div class="cart-notification__header">
+        <h2 class="cart-notification__heading caption-large text-body"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-checkmark" viewBox="0 0 12 9"><path fill="currentColor" fill-rule="evenodd" d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z" clip-rule="evenodd"/></svg>
+Item added to your cart
+        </h2>
+        <button
+          type="button"
+          class="cart-notification__close modal__close-button link link--text focus-inset"
+          aria-label="Close"
+        >
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+        </button>
+      </div>
+      <div id="cart-notification-product" class="cart-notification-product"></div>
+      <div class="cart-notification__links">
+        <a
+          href="/cart"
+          id="cart-notification-button"
+          class="button button--secondary button--full-width"
+        >View cart</a>
+        <form action="/cart" method="post" id="cart-notification-form">
+          <button class="button button--primary button--full-width" name="checkout">
+            Check out
+          </button>
+        </form>
+        <button type="button" class="link button-label">Continue shopping</button>
+      </div>
+    </div>
+  </div>
+</cart-notification>
+<style data-shopify>
+  .cart-notification {
+    display: none;
+  }
+</style>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Fysso",
+    
+      "logo": "https:\/\/fysso.shop\/cdn\/shop\/files\/Screenshot_2025-03-22_122847.png?v=1742643817\u0026width=500",
+    
+    "sameAs": [
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      "",
+      "#",
+      "",
+      ""
+    ],
+    "url": "https:\/\/fysso.shop"
+  }
+</script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "Fysso",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/fysso.shop\/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https:\/\/fysso.shop"
+    }
+  </script>
+</div>
+<!-- END sections: header-group -->
+
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <section id="shopify-section-template--24311256744254__slideshow_tz3Ntx" class="shopify-section section"><link href="//fysso.shop/cdn/shop/t/1/assets/section-image-banner.css?v=124819179385751388401742627294" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-slider.css?v=14039311878856620671742627292" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-slideshow.css?v=17933591812325749411742627292" rel="stylesheet" type="text/css" media="all" />
+<slideshow-component
+  class="slider-mobile-gutter"
+  role="region"
+  aria-roledescription="Carousel"
+  aria-label="Slideshow about our brand"
+><div
+    class="slideshow banner banner--large grid grid--1-col slider slider--everywhere scroll-trigger animate--fade-in"
+    id="Slider-template--24311256744254__slideshow_tz3Ntx"
+    aria-live="polite"
+    aria-atomic="true"
+    data-autoplay="false"
+    data-speed="9"
+  ><style>
+        #Slide-template--24311256744254__slideshow_tz3Ntx-1 .banner__media::after {
+          opacity: 0.0;
+        }
+      </style>
+      <div
+        class="slideshow__slide grid__item grid--1-col slider__slide"
+        id="Slide-template--24311256744254__slideshow_tz3Ntx-1"
+        
+        role="group"
+        aria-roledescription="Slide"
+        aria-label="1 of 1"
+        tabindex="-1"
+      >
+        <div class="slideshow__media banner__media media">
+              <img src="//fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=3840" alt="" srcset="//fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=375 375w, //fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=550 550w, //fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=750 750w, //fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=1100 1100w, //fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=1500 1500w, //fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=1780 1780w, //fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=2000 2000w, //fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=3000 3000w, //fysso.shop/cdn/shop/files/person-skips-in-a-sunny-sunflower-field.jpg?v=1743447880&amp;width=3840 3840w" height="4096" sizes="100vw" fetchpriority="high">
+</div>
+        <div class="slideshow__text-wrapper banner__content banner__content--bottom-right page-width scroll-trigger animate--slide-in">
+          <div class="slideshow__text banner__box content-container content-container--full-width-mobile color-scheme-1 gradient slideshow__text--center slideshow__text-mobile--center"><h2 class="banner__heading inline-richtext h2">
+                <strong>Jewellery isn’t just an accessory—it’s a mood.</strong>
+              </h2><div class="banner__buttons">
+                <a
+                  
+                    href="/products/fine-necklace-silver-beading-chain"
+                  
+                  class="button button--primary"
+                >SHOP</a>
+              </div></div>
+        </div>
+      </div></div></slideshow-component>
+</section><section id="shopify-section-template--24311256744254__featured_product_W6myhV" class="shopify-section section section-featured-product"><product-info
+  data-section="template--24311256744254__featured_product_W6myhV"
+  data-product-id="11851715412286"
+  data-update-url="false"
+  data-url="/products/silver-plated-stylish-necklace"
+  
+>
+  <link href="//fysso.shop/cdn/shop/t/1/assets/section-main-product.css?v=161818056142182136911742627294" rel="stylesheet" type="text/css" media="all" />
+  <link href="//fysso.shop/cdn/shop/t/1/assets/section-featured-product.css?v=92895955984512702041742627294" rel="stylesheet" type="text/css" media="all" />
+  <link href="//fysso.shop/cdn/shop/t/1/assets/component-accordion.css?v=7971072480289620591742627292" rel="stylesheet" type="text/css" media="all" />
+  <link href="//fysso.shop/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101742627292" rel="stylesheet" type="text/css" media="all" />
+  <link href="//fysso.shop/cdn/shop/t/1/assets/component-deferred-media.css?v=14096082462203297471742627292" rel="stylesheet" type="text/css" media="all" />
+  <link href="//fysso.shop/cdn/shop/t/1/assets/component-rating.css?v=179577762467860590411742627292" rel="stylesheet" type="text/css" media="all" />
+  <link href="//fysso.shop/cdn/shop/t/1/assets/component-volume-pricing.css?v=111870094811454961941742627292" rel="stylesheet" type="text/css" media="all" />
+  
+<style data-shopify>.section-template--24311256744254__featured_product_W6myhV-padding {
+      padding-top: 27px;
+      padding-bottom: 27px;
+    }
+
+    @media screen and (min-width: 750px) {
+      .section-template--24311256744254__featured_product_W6myhV-padding {
+        padding-top: 36px;
+        padding-bottom: 36px;
+      }
+    }</style><script src="//fysso.shop/cdn/shop/t/1/assets/product-info.js?v=19485075357881213091742627294" defer="defer"></script>
+  <script src="//fysso.shop/cdn/shop/t/1/assets/show-more.js?v=135784227224860024771742627294" defer="defer"></script>
+  <script src="//fysso.shop/cdn/shop/t/1/assets/price-per-item.js?v=20223165687617204711742627294" defer="defer"></script>
+
+  
+
+
+  <section class="color-scheme-2 gradient">
+    <div class="page-width section-template--24311256744254__featured_product_W6myhV-padding">
+      <div class="featured-product product product--medium grid grid--1-col gradient color-scheme-2 product--left isolate grid--2-col-tablet">
+        <div class="grid__item product__media-wrapper">
+<media-gallery
+  id="MediaGallery-template--24311256744254__featured_product_W6myhV"
+  role="region"
+  
+  aria-label="Gallery Viewer"
+  data-desktop-layout=""
+>
+  <div id="GalleryStatus-template--24311256744254__featured_product_W6myhV" class="visually-hidden" role="status"></div>
+  <slider-component id="GalleryViewer-template--24311256744254__featured_product_W6myhV" class="slider-mobile-gutter">
+    <a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--24311256744254__featured_product_W6myhV">
+      Skip to product information
+    </a>
+    <ul
+      id="Slider-Gallery-template--24311256744254__featured_product_W6myhV"
+      class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
+      role="list"
+    >
+<li
+            id="Slide-template--24311256744254__featured_product_W6myhV-42649293226302"
+            class="product__media-item grid__item slider__slide product__media-item--single is-active scroll-trigger animate--fade-in"
+            data-media-id="template--24311256744254__featured_product_W6myhV-42649293226302"
+          >
+
+<div
+  class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+  style="--ratio: 0.8004451038575667; --preview-ratio: 0.8004451038575667;"
+>
+  <modal-opener
+    class="product__modal-opener product__modal-opener--image"
+    data-modal="#ProductModal-template--24311256744254__featured_product_W6myhV"
+  >
+    <span
+      class="product__media-icon motion-reduce quick-add-hidden product__media-icon--none"
+      aria-hidden="true"
+    >
+      
+          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-plus" viewBox="0 0 19 19"><path fill="currentColor" fill-rule="evenodd" d="M4.667 7.94a.5.5 0 0 1 .499-.501l5.534-.014a.5.5 0 1 1 .002 1l-5.534.014a.5.5 0 0 1-.5-.5" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M7.926 4.665a.5.5 0 0 1 .501.498l.014 5.534a.5.5 0 1 1-1 .003l-.014-5.534a.5.5 0 0 1 .499-.501" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M12.832 3.03a6.931 6.931 0 1 0-9.802 9.802 6.931 6.931 0 0 0 9.802-9.802M2.323 2.323a7.931 7.931 0 0 1 11.296 11.136l4.628 4.628a.5.5 0 0 1-.707.707l-4.662-4.662A7.932 7.932 0 0 1 2.323 2.323" clip-rule="evenodd"/></svg>
+</span>
+      
+    </span>
+
+<div class="loading__spinner hidden">
+  <svg xmlns="http://www.w3.org/2000/svg" class="spinner" viewBox="0 0 66 66"><circle stroke-width="6" cx="33" cy="33" r="30" fill="none" class="path"/></svg>
+
+</div>
+<div class="product__media media media--transparent">
+      <img src="//fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=1946" alt="" srcset="//fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=246 246w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=493 493w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=600 600w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=713 713w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=823 823w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=990 990w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=1100 1100w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=1206 1206w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=1346 1346w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=1426 1426w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=1646 1646w, //fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&amp;width=1946 1946w" width="1946" height="2431" class="image-magnify-none" sizes="(min-width: 1200px) 605px, (min-width: 990px) calc(55.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+    </div>
+    <button
+      class="product__media-toggle quick-add-hidden product__media-zoom-none"
+      type="button"
+      aria-haspopup="dialog"
+      data-media-id="42649293226302"
+    >
+      <span class="visually-hidden">
+        Open media 1 in modal
+      </span>
+    </button>
+  </modal-opener></div>
+
+          </li>
+          
+          
+          </ul>
+    <div class="slider-buttons quick-add-hidden small-hide">
+      <button
+        type="button"
+        class="slider-button slider-button--prev"
+        name="previous"
+        aria-label="Slide left"
+      >
+        <span class="svg-wrapper"><svg class="icon icon-caret" viewBox="0 0 10 6"><path fill="currentColor" fill-rule="evenodd" d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708" clip-rule="evenodd"/></svg>
+</span>
+      </button>
+      <div class="slider-counter caption">
+        <span class="slider-counter--current">1</span>
+        <span aria-hidden="true"> / </span>
+        <span class="visually-hidden">of</span>
+        <span class="slider-counter--total">4</span>
+      </div>
+      <button
+        type="button"
+        class="slider-button slider-button--next"
+        name="next"
+        aria-label="Slide right"
+      >
+        <span class="svg-wrapper"><svg class="icon icon-caret" viewBox="0 0 10 6"><path fill="currentColor" fill-rule="evenodd" d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708" clip-rule="evenodd"/></svg>
+</span>
+      </button>
+    </div>
+  </slider-component></media-gallery>
+
+</div>
+        <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
+          <section
+            id="ProductInfo-template--24311256744254__featured_product_W6myhV"
+            class="product__info-container"
+            data-section="template--24311256744254__featured_product_W6myhV"
+            data-url="/products/silver-plated-stylish-necklace"
+          ><p
+                    class="product__text inline-richtext caption-with-letter-spacing"
+                    
+                  >qvjg0w-5k</p><h2 class="product__title h1" >Silver Plated Stylish Necklace
+</h2><div id="price-template--24311256744254__featured_product_W6myhV" role="status" >
+<div
+    class="
+      price price--large price--on-sale price--show-badge"
+  >
+    <div class="price__container"><div class="price__regular"><span class="visually-hidden visually-hidden--inline">Regular price</span>
+          <span class="price-item price-item--regular">
+            Rs. 599.00
+          </span></div>
+      <div class="price__sale">
+          <span class="visually-hidden visually-hidden--inline">Regular price</span>
+          <span>
+            <s class="price-item price-item--regular">
+              
+                Rs. 1,999.00
+              
+            </s>
+          </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+        <span class="price-item price-item--sale price-item--last">
+          Rs. 599.00
+        </span>
+      </div>
+      <small class="unit-price caption hidden">
+        <span class="visually-hidden">Unit price</span>
+        <span class="price-item price-item--last">
+          <span></span>
+          <span aria-hidden="true">/</span>
+          <span class="visually-hidden">&nbsp;per&nbsp;</span>
+          <span>
+          </span>
+        </span>
+      </small>
+    </div><span class="badge price__badge-sale color-scheme-4">
+        Sale
+      </span>
+
+      <span class="badge price__badge-sold-out color-scheme-3">
+        Sold out
+      </span></div>
+
+</div><div class="product__tax caption rte">Taxes included.
+<a href="/policies/shipping-policy">Shipping</a> calculated at checkout.
+</div><div ><form method="post" action="/cart/add" id="product_form_11851715412286" accept-charset="UTF-8" class="shopify-product-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="51528834416958">
+                        
+<input type="hidden" name="product-id" value="11851715412286" /><input type="hidden" name="section-id" value="template--24311256744254__featured_product_W6myhV" /></form></div>
+
+<div
+                    id="Quantity-Form-template--24311256744254__featured_product_W6myhV"
+                    class="product-form__input product-form__quantity"
+                    
+                  >
+                    
+                    
+
+                    <label class="quantity__label form__label" for="Quantity-template--24311256744254__featured_product_W6myhV">
+                      Quantity
+                      <span class="quantity__rules-cart hidden">
+
+<div class="loading__spinner hidden">
+  <svg xmlns="http://www.w3.org/2000/svg" class="spinner" viewBox="0 0 66 66"><circle stroke-width="6" cx="33" cy="33" r="30" fill="none" class="path"/></svg>
+
+</div>
+<span
+                          >(<span class="quantity-cart">0</span> in cart)</span
+                        >
+                      </span>
+                    </label>
+                    <div class="price-per-item__container">
+                      <quantity-input class="quantity">
+                        <button class="quantity__button" name="minus" type="button">
+                          <span class="visually-hidden">Decrease quantity for Silver Plated Stylish Necklace</span>
+                          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-minus" viewBox="0 0 10 2"><path fill="currentColor" fill-rule="evenodd" d="M.5 1C.5.7.7.5 1 .5h8a.5.5 0 1 1 0 1H1A.5.5 0 0 1 .5 1" clip-rule="evenodd"/></svg>
+</span>
+                        </button>
+                        <input
+                          class="quantity__input"
+                          type="number"
+                          name="quantity"
+                          id="Quantity-template--24311256744254__featured_product_W6myhV"
+                          data-cart-quantity="0"
+                          data-min="1"
+                          min="1"
+                          
+                          step="1"
+                          value="1"
+                          form="product-form-template--24311256744254__featured_product_W6myhV"
+                        >
+                        <button class="quantity__button" name="plus" type="button">
+                          <span class="visually-hidden">Increase quantity for Silver Plated Stylish Necklace</span>
+                          <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-plus" viewBox="0 0 10 10"><path fill="currentColor" fill-rule="evenodd" d="M1 4.51a.5.5 0 0 0 0 1h3.5l.01 3.5a.5.5 0 0 0 1-.01V5.5l3.5-.01a.5.5 0 0 0-.01-1H5.5L5.49.99a.5.5 0 0 0-1 .01v3.5l-3.5.01z" clip-rule="evenodd"/></svg>
+</span>
+                        </button>
+                      </quantity-input></div>
+                    <div class="quantity__rules caption" id="Quantity-Rules-template--24311256744254__featured_product_W6myhV"></div></div>
+<div ><product-form
+      class="product-form"
+      data-hide-errors="false"
+      data-section-id="template--24311256744254__featured_product_W6myhV"
+    >
+      <div class="product-form__error-message-wrapper" role="alert" hidden>
+        <span class="svg-wrapper"><svg class="icon icon-error" viewBox="0 0 13 13"><circle cx="6.5" cy="6.5" r="5.5" stroke="#fff" stroke-width="2"/><circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B" stroke-width=".7"/><path fill="#fff" d="m5.874 3.528.1 4.044h1.053l.1-4.044zm.627 6.133c.38 0 .68-.288.68-.656s-.3-.656-.68-.656-.681.288-.681.656.3.656.68.656"/><path fill="#fff" stroke="#EB001B" stroke-width=".7" d="M5.874 3.178h-.359l.01.359.1 4.044.008.341h1.736l.008-.341.1-4.044.01-.359H5.873Zm.627 6.833c.56 0 1.03-.432 1.03-1.006s-.47-1.006-1.03-1.006-1.031.432-1.031 1.006.47 1.006 1.03 1.006Z"/></svg>
+</span>
+        <span class="product-form__error-message"></span>
+      </div><form method="post" action="/cart/add" id="product-form-template--24311256744254__featured_product_W6myhV" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+          type="hidden"
+          name="id"
+          value="51528834416958"
+          
+          class="product-variant-id"
+        ><div class="product-form__buttons"><button
+            id="ProductSubmitButton-template--24311256744254__featured_product_W6myhV"
+            type="submit"
+            name="add"
+            class="product-form__submit button button--full-width button--secondary"
+            
+          >
+            <span>Add to cart
+</span>
+
+<div class="loading__spinner hidden">
+  <svg xmlns="http://www.w3.org/2000/svg" class="spinner" viewBox="0 0 66 66"><circle stroke-width="6" cx="33" cy="33" r="30" fill="none" class="path"/></svg>
+
+</div>
+</button><div data-shopify="payment-button" class="shopify-payment-button"> <shopify-accelerated-checkout recommended="null" fallback="{&quot;name&quot;:&quot;buy_it_now&quot;,&quot;wallet_params&quot;:{}}" access-token="3761dbd1fa4c9e6170e8e5980df7d1f9" buyer-country="IN" buyer-locale="en" buyer-currency="INR" variant-params="[{&quot;id&quot;:51528834416958,&quot;requiresShipping&quot;:true}]" shop-id="93105652030" > <div class="shopify-payment-button__button" role="button" disabled aria-hidden="true" style="background-color: transparent; border: none"> <div class="shopify-payment-button__skeleton">&nbsp;</div> </div> </shopify-accelerated-checkout> <small id="shopify-buyer-consent" class="hidden" aria-hidden="true"> This item is a recurring or deferred purchase. By continuing, I agree to the <span id="shopify-subscription-policy-button">cancellation policy</span> and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted. </small> </div>
+</div><input type="hidden" name="product-id" value="11851715412286" /><input type="hidden" name="section-id" value="template--24311256744254__featured_product_W6myhV" /></form></product-form></div>
+
+<script src="//fysso.shop/cdn/shop/t/1/assets/share.js?v=13024540447964430191742627294" defer="defer"></script>
+
+<share-button id="Share-template--24311256744254__featured_product_W6myhV" class="share-button quick-add-hidden" >
+  <button class="share-button__button hidden">
+    <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-share" viewBox="0 0 13 12"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M1.625 8.125v2.167a1.083 1.083 0 0 0 1.083 1.083h7.584a1.083 1.083 0 0 0 1.083-1.083V8.125"/><path fill="currentColor" fill-rule="evenodd" d="M6.148 1.271a.5.5 0 0 1 .707 0L9.563 3.98a.5.5 0 0 1-.707.707L6.501 2.332 4.147 4.687a.5.5 0 1 1-.708-.707z" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M6.5 1.125a.5.5 0 0 1 .5.5v6.5a.5.5 0 0 1-1 0v-6.5a.5.5 0 0 1 .5-.5" clip-rule="evenodd"/></svg>
+</span>
+    Share
+  </button>
+  <details id="Details-share_GnJMKH-template--24311256744254__featured_product_W6myhV">
+    <summary class="share-button__button">
+      <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-share" viewBox="0 0 13 12"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M1.625 8.125v2.167a1.083 1.083 0 0 0 1.083 1.083h7.584a1.083 1.083 0 0 0 1.083-1.083V8.125"/><path fill="currentColor" fill-rule="evenodd" d="M6.148 1.271a.5.5 0 0 1 .707 0L9.563 3.98a.5.5 0 0 1-.707.707L6.501 2.332 4.147 4.687a.5.5 0 1 1-.708-.707z" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M6.5 1.125a.5.5 0 0 1 .5.5v6.5a.5.5 0 0 1-1 0v-6.5a.5.5 0 0 1 .5-.5" clip-rule="evenodd"/></svg>
+</span>
+      Share
+    </summary>
+    <div class="share-button__fallback motion-reduce">
+      <div class="field">
+        <span id="ShareMessage-template--24311256744254__featured_product_W6myhV" class="share-button__message hidden" role="status"> </span>
+        <input
+          type="text"
+          class="field__input"
+          id="ShareUrl-template--24311256744254__featured_product_W6myhV"
+          value="https://fysso.shop/products/silver-plated-stylish-necklace"
+          placeholder="Link"
+          onclick="this.select();"
+          readonly
+        >
+        <label class="field__label" for="ShareUrl-template--24311256744254__featured_product_W6myhV">Link</label>
+      </div>
+      <button class="share-button__close hidden">
+        <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+</span>
+        <span class="visually-hidden">Close share</span>
+      </button>
+      <button class="share-button__copy">
+        <span class="svg-wrapper"><svg
+  class="icon icon-clipboard"
+  width="11"
+  height="13"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  focusable="false"
+  viewBox="0 0 11 13"
+>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z" fill="currentColor"/>
+</svg>
+</span>
+        <span class="visually-hidden">Copy link</span>
+      </button>
+    </div>
+  </details>
+</share-button>
+
+<a
+              
+                href="/products/silver-plated-stylish-necklace"
+              
+              class="link product__view-details animate-arrow"
+            >
+              View full details
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-arrow" viewBox="0 0 14 10"><path fill="currentColor" fill-rule="evenodd" d="M8.537.808a.5.5 0 0 1 .817-.162l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 1 1-.708-.708L11.793 5.5H1a.5.5 0 0 1 0-1h10.793L8.646 1.354a.5.5 0 0 1-.109-.546" clip-rule="evenodd"/></svg>
+</a>
+          </section>
+        </div>
+      </div>
+      
+
+<product-modal id="ProductModal-template--24311256744254__featured_product_W6myhV" class="product-media-modal media-modal">
+  <div
+    class="product-media-modal__dialog color-scheme-2 gradient"
+    role="dialog"
+    aria-label="Media gallery"
+    aria-modal="true"
+    tabindex="-1"
+  >
+    <button
+      id="ModalClose-template--24311256744254__featured_product_W6myhV"
+      type="button"
+      class="product-media-modal__toggle"
+      aria-label="Close"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-close" viewBox="0 0 18 17"><path fill="currentColor" d="M.865 15.978a.5.5 0 0 0 .707.707l7.433-7.431 7.579 7.282a.501.501 0 0 0 .846-.37.5.5 0 0 0-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 1 0-.707-.708L8.991 7.853 1.413.573a.5.5 0 1 0-.693.72l7.563 7.268z"/></svg>
+
+    </button>
+
+    <div
+      class="product-media-modal__content color-scheme-2 gradient"
+      role="document"
+      aria-label="Media gallery"
+      tabindex="0"
+    >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&width=550 550w,//fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510 1079w
+    "
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//fysso.shop/cdn/shop/files/8118346624.jpg?v=1743448510&width=1445"
+    alt="Silver Plated Stylish Necklace"
+    loading="lazy"
+    width="1100"
+    height="1375"
+    data-media-id="42649293226302"
+  >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//fysso.shop/cdn/shop/files/7693946549.jpg?v=1743448510&width=550 550w,//fysso.shop/cdn/shop/files/7693946549.jpg?v=1743448510 1080w
+    "
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//fysso.shop/cdn/shop/files/7693946549.jpg?v=1743448510&width=1445"
+    alt="Silver Plated Stylish Necklace"
+    loading="lazy"
+    width="1100"
+    height="1467"
+    data-media-id="42649293259070"
+  >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//fysso.shop/cdn/shop/files/5770490419.jpg?v=1743448510&width=550 550w,//fysso.shop/cdn/shop/files/5770490419.jpg?v=1743448510 1080w
+    "
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//fysso.shop/cdn/shop/files/5770490419.jpg?v=1743448510&width=1445"
+    alt="Silver Plated Stylish Necklace"
+    loading="lazy"
+    width="1100"
+    height="1467"
+    data-media-id="42649293291838"
+  >
+<img
+    class="global-media-settings global-media-settings--no-shadow"
+    srcset="//fysso.shop/cdn/shop/files/7421143987.jpg?v=1743448510&width=550 550w,//fysso.shop/cdn/shop/files/7421143987.jpg?v=1743448510 1080w
+    "
+    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+    src="//fysso.shop/cdn/shop/files/7421143987.jpg?v=1743448510&width=1445"
+    alt="Silver Plated Stylish Necklace"
+    loading="lazy"
+    width="1100"
+    height="1467"
+    data-media-id="42649293324606"
+  ></div>
+  </div>
+</product-modal>
+
+    </div>
+  </section>
+
+  <script src="//fysso.shop/cdn/shop/t/1/assets/product-form.js?v=16477139885528072191742627294" defer="defer"></script>
+<script type="application/ld+json">
+    {"@context":"http:\/\/schema.org\/","@id":"\/products\/silver-plated-stylish-necklace#product","@type":"Product","brand":{"@type":"Brand","name":"qvjg0w-5k"},"category":"","description":"Product Name: Silver Plated Stylish Necklace Package Contains: It has 1 Necklace Material: Alloy Work: Silver Plated Occasion: Casual Combo: Pack of 1 Ideal for: Women Weight: 100","image":"https:\/\/fysso.shop\/cdn\/shop\/files\/8118346624.jpg?v=1743448510\u0026width=1920","name":"Silver Plated Stylish Necklace","offers":{"@id":"\/products\/silver-plated-stylish-necklace?variant=51528834416958#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"599.00","priceCurrency":"INR","url":"https:\/\/fysso.shop\/products\/silver-plated-stylish-necklace?variant=51528834416958"},"sku":"8089271969","url":"https:\/\/fysso.shop\/products\/silver-plated-stylish-necklace"}
+  </script>
+
+  
+    <script src="//fysso.shop/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461742627294" defer="defer"></script>
+    <script src="//fysso.shop/cdn/shop/t/1/assets/media-gallery.js?v=53998976194532824491742627294" defer="defer"></script>
+  
+</product-info>
+
+
+</section><section id="shopify-section-template--24311256744254__featured_collection_zCNrP7" class="shopify-section section"><link href="//fysso.shop/cdn/shop/t/1/assets/component-card.css?v=120341546515895839841742627292" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101742627292" rel="stylesheet" type="text/css" media="all" />
+
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-slider.css?v=14039311878856620671742627292" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/template-collection.css?v=58558206033505836701742627294" rel="stylesheet" type="text/css" media="all" />
+
+<style data-shopify>.section-template--24311256744254__featured_collection_zCNrP7-padding {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--24311256744254__featured_collection_zCNrP7-padding {
+      padding-top: 16px;
+      padding-bottom: 16px;
+    }
+  }</style><div
+  class="color-scheme-1 isolate gradient"
+>
+  <div
+    class="collection section-template--24311256744254__featured_collection_zCNrP7-padding"
+    id="collection-template--24311256744254__featured_collection_zCNrP7"
+    data-id="template--24311256744254__featured_collection_zCNrP7"
+  >
+    <div class="collection__title title-wrapper title-wrapper--no-top-margin page-width"><h2 class="title inline-richtext h1 scroll-trigger animate--slide-in">
+          Featured collection
+        </h2></div>
+
+    <slider-component class="slider-mobile-gutter page-width page-width-desktop scroll-trigger animate--slide-in">
+      <ul
+        id="Slider-template--24311256744254__featured_collection_zCNrP7"
+        data-id="template--24311256744254__featured_collection_zCNrP7"
+        class="grid product-grid contains-card contains-card--product contains-card--standard grid--4-col-desktop grid--1-col-tablet-down"
+        role="list"
+        aria-label="Slider"
+      >
+        
+
+<li
+                id="Slide-template--24311256744254__featured_collection_zCNrP7-1"
+                class="grid__item scroll-trigger animate--slide-in"
+                
+                  data-cascade
+                  style="--animation-order: 1;"
+                
+              >
+                
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-rating.css?v=179577762467860590411742627292" rel="stylesheet" type="text/css" media="all" />
+  <link href="//fysso.shop/cdn/shop/t/1/assets/component-volume-pricing.css?v=111870094811454961941742627292" rel="stylesheet" type="text/css" media="all" />
+
+  <link href="//fysso.shop/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101742627292" rel="stylesheet" type="text/css" media="all" />
+  <link href="//fysso.shop/cdn/shop/t/1/assets/quick-order-list.css?v=86354568948591544181742627294" rel="stylesheet" type="text/css" media="all" />
+  <link href="//fysso.shop/cdn/shop/t/1/assets/quantity-popover.css?v=160630540099520878331742627294" rel="stylesheet" type="text/css" media="all" />
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 100.37037037037038%;"
+    >
+      <div
+        class="card__inner color-scheme-2 gradient ratio"
+        style="--ratio-percent: 100.37037037037038%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//fysso.shop/cdn/shop/files/7763704014.jpg?v=1743447536&width=165 165w,//fysso.shop/cdn/shop/files/7763704014.jpg?v=1743447536&width=360 360w,//fysso.shop/cdn/shop/files/7763704014.jpg?v=1743447536&width=533 533w,//fysso.shop/cdn/shop/files/7763704014.jpg?v=1743447536&width=720 720w,//fysso.shop/cdn/shop/files/7763704014.jpg?v=1743447536&width=940 940w,//fysso.shop/cdn/shop/files/7763704014.jpg?v=1743447536&width=1066 1066w,//fysso.shop/cdn/shop/files/7763704014.jpg?v=1743447536 1080w
+                "
+                src="//fysso.shop/cdn/shop/files/7763704014.jpg?v=1743447536&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Touch Up 4-in-1 Makeup Pen"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="1080"
+                height="1084"
+              >
+              
+</div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/touch-up-4-in-1-makeup-pen"
+                id="StandardCardNoMediaLink-template--24311256744254__featured_collection_zCNrP7-11851709284670"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--24311256744254__featured_collection_zCNrP7-11851709284670 NoMediaStandardBadge-template--24311256744254__featured_collection_zCNrP7-11851709284670"
+              >
+                Touch Up 4-in-1 Makeup Pen
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"><span
+                id="NoMediaStandardBadge-template--24311256744254__featured_collection_zCNrP7-11851709284670"
+                class="badge badge--bottom-left color-scheme-4"
+              >Sale</span></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--24311256744254__featured_collection_zCNrP7-11851709284670"
+            
+          >
+            <a
+              href="/products/touch-up-4-in-1-makeup-pen"
+              id="CardLink-template--24311256744254__featured_collection_zCNrP7-11851709284670"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--24311256744254__featured_collection_zCNrP7-11851709284670 Badge-template--24311256744254__featured_collection_zCNrP7-11851709284670"
+            >
+              Touch Up 4-in-1 Makeup Pen
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+    class="
+      price  price--on-sale"
+  >
+    <div class="price__container"><div class="price__regular"><span class="visually-hidden visually-hidden--inline">Regular price</span>
+          <span class="price-item price-item--regular">
+            Rs. 999.00
+          </span></div>
+      <div class="price__sale">
+          <span class="visually-hidden visually-hidden--inline">Regular price</span>
+          <span>
+            <s class="price-item price-item--regular">
+              
+                Rs. 2,599.00
+              
+            </s>
+          </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+        <span class="price-item price-item--sale price-item--last">
+          Rs. 999.00
+        </span>
+      </div>
+      <small class="unit-price caption hidden">
+        <span class="visually-hidden">Unit price</span>
+        <span class="price-item price-item--last">
+          <span></span>
+          <span aria-hidden="true">/</span>
+          <span class="visually-hidden">&nbsp;per&nbsp;</span>
+          <span>
+          </span>
+        </span>
+      </small>
+    </div></div>
+
+
+</div>
+        </div>
+        
+        
+        <div class="card__badge bottom left"><span
+              id="Badge-template--24311256744254__featured_collection_zCNrP7-11851709284670"
+              class="badge badge--bottom-left color-scheme-4"
+            >Sale</span></div>
+      </div>
+    </div>
+  </div>
+              </li><li
+                id="Slide-template--24311256744254__featured_collection_zCNrP7-2"
+                class="grid__item scroll-trigger animate--slide-in"
+                
+                  data-cascade
+                  style="--animation-order: 2;"
+                
+              >
+                
+<div class="card-wrapper product-card-wrapper underline-links-hover">
+    <div
+      class="
+        card card--standard
+         card--media
+        
+        
+        
+        
+        
+      "
+      style="--ratio-percent: 138.91797556719024%;"
+    >
+      <div
+        class="card__inner color-scheme-2 gradient ratio"
+        style="--ratio-percent: 138.91797556719024%;"
+      ><div class="card__media">
+            <div class="media media--transparent media--hover-effect">
+              
+              <img
+                srcset="//fysso.shop/cdn/shop/files/5160637962.jpg?v=1743448469&width=165 165w,//fysso.shop/cdn/shop/files/5160637962.jpg?v=1743448469&width=360 360w,//fysso.shop/cdn/shop/files/5160637962.jpg?v=1743448469&width=533 533w,//fysso.shop/cdn/shop/files/5160637962.jpg?v=1743448469 573w
+                "
+                src="//fysso.shop/cdn/shop/files/5160637962.jpg?v=1743448469&width=533"
+                sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Fine Necklace Silver Beading Chain"
+                class="motion-reduce"
+                
+                  loading="lazy"
+                
+                width="573"
+                height="796"
+              >
+              
+</div>
+          </div><div class="card__content">
+          <div class="card__information">
+            <h3
+              class="card__heading"
+              
+            >
+              <a
+                href="/products/fine-necklace-silver-beading-chain"
+                id="StandardCardNoMediaLink-template--24311256744254__featured_collection_zCNrP7-11851715182910"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-template--24311256744254__featured_collection_zCNrP7-11851715182910 NoMediaStandardBadge-template--24311256744254__featured_collection_zCNrP7-11851715182910"
+              >
+                Fine Necklace Silver Beading Chain
+              </a>
+            </h3>
+          </div>
+          <div class="card__badge bottom left"><span
+                id="NoMediaStandardBadge-template--24311256744254__featured_collection_zCNrP7-11851715182910"
+                class="badge badge--bottom-left color-scheme-4"
+              >Sale</span></div>
+        </div>
+      </div>
+      <div class="card__content">
+        <div class="card__information">
+          <h3
+            class="card__heading h5"
+            
+              id="title-template--24311256744254__featured_collection_zCNrP7-11851715182910"
+            
+          >
+            <a
+              href="/products/fine-necklace-silver-beading-chain"
+              id="CardLink-template--24311256744254__featured_collection_zCNrP7-11851715182910"
+              class="full-unstyled-link"
+              aria-labelledby="CardLink-template--24311256744254__featured_collection_zCNrP7-11851715182910 Badge-template--24311256744254__featured_collection_zCNrP7-11851715182910"
+            >
+              Fine Necklace Silver Beading Chain
+            </a>
+          </h3>
+          <div class="card-information"><span class="caption-large light"></span>
+<div
+    class="
+      price  price--on-sale"
+  >
+    <div class="price__container"><div class="price__regular"><span class="visually-hidden visually-hidden--inline">Regular price</span>
+          <span class="price-item price-item--regular">
+            Rs. 499.00
+          </span></div>
+      <div class="price__sale">
+          <span class="visually-hidden visually-hidden--inline">Regular price</span>
+          <span>
+            <s class="price-item price-item--regular">
+              
+                Rs. 1,799.00
+              
+            </s>
+          </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+        <span class="price-item price-item--sale price-item--last">
+          Rs. 499.00
+        </span>
+      </div>
+      <small class="unit-price caption hidden">
+        <span class="visually-hidden">Unit price</span>
+        <span class="price-item price-item--last">
+          <span></span>
+          <span aria-hidden="true">/</span>
+          <span class="visually-hidden">&nbsp;per&nbsp;</span>
+          <span>
+          </span>
+        </span>
+      </small>
+    </div></div>
+
+
+</div>
+        </div>
+        
+        
+        <div class="card__badge bottom left"><span
+              id="Badge-template--24311256744254__featured_collection_zCNrP7-11851715182910"
+              class="badge badge--bottom-left color-scheme-4"
+            >Sale</span></div>
+      </div>
+    </div>
+  </div>
+              </li>
+</ul></slider-component></div>
+</div>
+
+
+</section><section id="shopify-section-template--24311256744254__rich_text_RWyYNz" class="shopify-section section"><link href="//fysso.shop/cdn/shop/t/1/assets/section-rich-text.css?v=155250126305810049721742627294" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.section-template--24311256744254__rich_text_RWyYNz-padding {
+    padding-top: 30px;
+    padding-bottom: 39px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--24311256744254__rich_text_RWyYNz-padding {
+      padding-top: 40px;
+      padding-bottom: 52px;
+    }
+  }</style><div class="isolate">
+  <div class="rich-text content-container color-scheme-1 gradient rich-text--full-width content-container--full-width section-template--24311256744254__rich_text_RWyYNz-padding">
+    <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+      <div class="rich-text__blocks center"><h2
+                class="rich-text__heading rte inline-richtext h2 scroll-trigger animate--slide-in"
+                
+                
+                  data-cascade
+                  style="--animation-order: 1;"
+                
+              >
+                <strong>About Us – Fysso 💖</strong>
+              </h2><div
+                class="rich-text__text rte scroll-trigger animate--slide-in"
+                
+                
+                  data-cascade
+                  style="--animation-order: 2;"
+                
+              >
+                <h3>✨ Welcome to <strong>Fysso</strong> – Where Beauty Meets Elegance! ✨</h3><p>At <strong>Fysso</strong>, we celebrate the essence of every woman—bold, radiant, and unapologetically stylish. 💖 Discover a handpicked collection of <strong>women’s jewellery</strong> and <strong>makeup essentials</strong>, crafted to elevate your everyday glow and add a spark of confidence to your look.</p><p>Fysso brings you beauty and sparkle all in one place.</p><h3>💎 Why You’ll Love Shopping at Fysso:</h3><p>✔️ <strong>Stunning Jewellery for Every Mood</strong> – Indie, elegant, or everyday shine<br/><br/>✔️ <strong>Affordable Luxury</strong> – Style that doesn’t break the bank<br/><br/>✔️ <strong>Cash on Delivery + Easy Returns</strong> – Shop stress-free<br/><br/>✔️ <strong>Fast Shipping Across India</strong> – Because glam shouldn’t wait!</p>
+              </div></div>
+    </div>
+  </div>
+</div>
+
+
+</section><section id="shopify-section-template--24311256744254__multicolumn_jrXJFV" class="shopify-section section"><link href="//fysso.shop/cdn/shop/t/1/assets/section-multicolumn.css?v=81420361875458722681742627294" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-slider.css?v=14039311878856620671742627292" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.section-template--24311256744254__multicolumn_jrXJFV-padding {
+    padding-top: 27px;
+    padding-bottom: 27px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--24311256744254__multicolumn_jrXJFV-padding {
+      padding-top: 36px;
+      padding-bottom: 36px;
+    }
+  }</style><div class="multicolumn color-scheme-1 gradient background-primary">
+  <div
+    class="page-width section-template--24311256744254__multicolumn_jrXJFV-padding isolate scroll-trigger animate--slide-in"
+    
+      data-cascade
+    
+  ><div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin multicolumn__title">
+        <h2 class="title inline-richtext h1">
+          <strong>Praise and Stories</strong>
+        </h2></div><slider-component class="slider-mobile-gutter">
+      <ul
+        class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--2-col-desktop slider slider--tablet grid--peek"
+        id="Slider-template--24311256744254__multicolumn_jrXJFV"
+        role="list"
+      ><li
+            id="Slide-template--24311256744254__multicolumn_jrXJFV-1"
+            class="multicolumn-list__item grid__item slider__slide center scroll-trigger animate--slide-in"
+            
+            
+              data-cascade
+              style="--animation-order: 1;"
+            
+          >
+            <div class="multicolumn-card content-container"><div class="multicolumn-card__info"><h3 class="inline-richtext">💎 <strong>"Absolutely Stunning Pieces!"</strong></h3><div class="rte"><p><em>“I ordered a necklace from Fysso, and I’m in love! The quality is amazing, and it looks even better in person. Got so many compliments already!”</em><br/>⭐️⭐️⭐️⭐️⭐️<br/></p></div></div>
+            </div>
+          </li><li
+            id="Slide-template--24311256744254__multicolumn_jrXJFV-2"
+            class="multicolumn-list__item grid__item slider__slide center scroll-trigger animate--slide-in"
+            
+            
+              data-cascade
+              style="--animation-order: 2;"
+            
+          >
+            <div class="multicolumn-card content-container"><div class="multicolumn-card__info"><h3 class="inline-richtext">💄 <strong>"My Go-To Makeup Pen!"</strong></h3><div class="rte"><p><em>“This makeup pen is a total game-changer! Super easy to use, smudge-proof, and stays on all day. Perfect for quick touch-ups too. Highly recommend!”</em><br/>⭐️⭐️⭐️⭐️</p></div></div>
+            </div>
+          </li><li
+            id="Slide-template--24311256744254__multicolumn_jrXJFV-3"
+            class="multicolumn-list__item grid__item slider__slide center scroll-trigger animate--slide-in"
+            
+            
+              data-cascade
+              style="--animation-order: 3;"
+            
+          >
+            <div class="multicolumn-card content-container"><div class="multicolumn-card__info"><h3 class="inline-richtext">💋 <strong>"Perfect for Everyday Glam!"</strong></h3><div class="rte"><p><em>“The makeup pen glides on smoothly and gives a flawless finish. Whether it’s work or a dinner date, this has become my must-have beauty essential.”</em><br/>⭐️⭐️⭐️⭐️⭐️</p></div></div>
+            </div>
+          </li><li
+            id="Slide-template--24311256744254__multicolumn_jrXJFV-4"
+            class="multicolumn-list__item grid__item slider__slide center scroll-trigger animate--slide-in"
+            
+            
+              data-cascade
+              style="--animation-order: 4;"
+            
+          >
+            <div class="multicolumn-card content-container"><div class="multicolumn-card__info"><h3 class="inline-richtext">✨ <strong>"Stylish & Affordable – What’s Not to Love?"</strong></h3><div class="rte"><p><em>“Fysso’s jewellery is trendy, elegant, and totally affordable. I didn’t expect this level of quality at such a great price. Already planning my next order!”</em><br/>⭐️⭐️⭐️⭐️⭐️<br/><br/></p></div></div>
+            </div>
+          </li></ul><div class="slider-buttons large-up-hide">
+          <button
+            type="button"
+            class="slider-button slider-button--prev"
+            name="previous"
+            aria-label="Slide left"
+          >
+            <span class="svg-wrapper"><svg class="icon icon-caret" viewBox="0 0 10 6"><path fill="currentColor" fill-rule="evenodd" d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708" clip-rule="evenodd"/></svg>
+</span>
+          </button>
+          <div class="slider-counter caption">
+            <span class="slider-counter--current">1</span>
+            <span aria-hidden="true"> / </span>
+            <span class="visually-hidden">of</span>
+            <span class="slider-counter--total">4</span>
+          </div>
+          <button
+            type="button"
+            class="slider-button slider-button--next"
+            name="next"
+            aria-label="Slide right"
+          >
+            <span class="svg-wrapper"><svg class="icon icon-caret" viewBox="0 0 10 6"><path fill="currentColor" fill-rule="evenodd" d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708" clip-rule="evenodd"/></svg>
+</span>
+          </button>
+        </div></slider-component>
+    <div class="center small-hide medium-hide"></div>
+  </div>
+</div>
+
+
+</section><div id="shopify-section-template--24311256744254__image_with_text_MUThwb" class="shopify-section section"><link href="//fysso.shop/cdn/shop/t/1/assets/component-image-with-text.css?v=159347133892345898421742627292" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.section-template--24311256744254__image_with_text_MUThwb-padding {
+    padding-top: 27px;
+    padding-bottom: 27px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--24311256744254__image_with_text_MUThwb-padding {
+      padding-top: 36px;
+      padding-bottom: 36px;
+    }
+  }</style><div class="section-template--24311256744254__image_with_text_MUThwb-padding gradient color-scheme-1">
+  <div class="page-width">
+    <div class="image-with-text image-with-text--overlap isolate collapse-borders collapse-corners scroll-trigger animate--slide-in">
+      <div class="image-with-text__grid grid grid--gapless grid--1-col grid--2-col-tablet">
+        <div class="image-with-text__media-item image-with-text__media-item--medium image-with-text__media-item--middle grid__item">
+          <div
+            class="image-with-text__media image-with-text__media--small global-media-settings gradient color-scheme-1 media"
+            
+          ><img src="//fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=1500" alt="" srcset="//fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=165 165w, //fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=360 360w, //fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=535 535w, //fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=750 750w, //fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=1070 1070w, //fysso.shop/cdn/shop/files/Screenshot_2025-03-22_122847.png?v=1742643817&amp;width=1500 1500w" width="1500" height="715" loading="lazy" sizes="(min-width: 1200px) 550px,
+              (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" fetchpriority="auto" style="object-position:20.2158% 23.9442%;">
+</div>
+        </div>
+        <div class="image-with-text__text-item grid__item">
+          <div
+            id="ImageWithText--template--24311256744254__image_with_text_MUThwb"
+            class="image-with-text__content image-with-text__content--middle image-with-text__content--desktop-center image-with-text__content--mobile-center image-with-text__content--small content-container gradient color-scheme-1"
+          ><h2
+                    class="image-with-text__heading inline-richtext h2"
+                    
+                  >
+                    💫 <strong>Welcome to Fysso – Where Beauty Meets Bold Elegance!</strong>
+                  </h2><div class="image-with-text__text rte body" >
+                    <h4>At <strong>Fysso</strong>, we believe every woman deserves to feel confident, beautiful, and effortlessly stylish. That’s why we bring you a carefully curated selection of <strong>high-quality jewellery and makeup essentials</strong>—designed to enhance your natural beauty and add a touch of sparkle to your everyday look. 💖 Join thousands of happy customers who trust Fysso for their glow-up moments—because <strong>you deserve nothing but the best</strong>! ✨🛒 <strong>Shop now and shine your way.</strong></h4>
+                  </div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+    </main>
+
+    <!-- BEGIN sections: footer-group -->
+<div id="shopify-section-sections--24311257203006__footer" class="shopify-section shopify-section-group-footer-group">
+<link href="//fysso.shop/cdn/shop/t/1/assets/section-footer.css?v=60318643098753476351742627294" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-newsletter.css?v=4727253280200485261742627292" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991742627292" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-list-payment.css?v=69253961410771838501742627292" rel="stylesheet" type="text/css" media="all" />
+<link href="//fysso.shop/cdn/shop/t/1/assets/component-list-social.css?v=35792976012981934991742627292" rel="stylesheet" type="text/css" media="all" />
+<style data-shopify>.footer {
+    margin-top: 0px;
+  }
+
+  .section-sections--24311257203006__footer-padding {
+    padding-top: 27px;
+    padding-bottom: 27px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .footer {
+      margin-top: 0px;
+    }
+
+    .section-sections--24311257203006__footer-padding {
+      padding-top: 36px;
+      padding-bottom: 36px;
+    }
+  }</style><footer class="footer color-scheme-1 gradient section-sections--24311257203006__footer-padding"><div class="footer__content-top page-width"><div
+          class="footer-block--newsletter scroll-trigger animate--slide-in"
+          
+            data-cascade
+          
+        ><div class="footer-block__newsletter"><h2 class="footer-block__heading inline-richtext">Subscribe to our emails</h2><form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="footer__newsletter newsletter-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="contact[tags]" value="newsletter">
+                <div class="newsletter-form__field-wrapper">
+                  <div class="field">
+                    <input
+                      id="NewsletterForm--sections--24311257203006__footer"
+                      type="email"
+                      name="contact[email]"
+                      class="field__input"
+                      value=""
+                      aria-required="true"
+                      autocorrect="off"
+                      autocapitalize="off"
+                      autocomplete="email"
+                      
+                      placeholder="Email"
+                      required
+                    >
+                    <label class="field__label" for="NewsletterForm--sections--24311257203006__footer">
+                      Email
+                    </label>
+                    <button
+                      type="submit"
+                      class="newsletter-form__button field__button"
+                      name="commit"
+                      id="Subscribe"
+                      aria-label="Subscribe"
+                    >
+                      <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-arrow" viewBox="0 0 14 10"><path fill="currentColor" fill-rule="evenodd" d="M8.537.808a.5.5 0 0 1 .817-.162l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 1 1-.708-.708L11.793 5.5H1a.5.5 0 0 1 0-1h10.793L8.646 1.354a.5.5 0 0 1-.109-.546" clip-rule="evenodd"/></svg>
+</span>
+                    </button>
+                  </div></div></form></div>
+
+<ul class="list-unstyled list-social footer__list-social" role="list"><li class="list-social__item">
+      <a href="#" class="link list-social__link">
+        <span class="svg-wrapper"><svg class="icon icon-instagram" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M13.23 3.492c-.84-.037-1.096-.046-3.23-.046-2.144 0-2.39.01-3.238.055-.776.027-1.195.164-1.487.273a2.4 2.4 0 0 0-.912.593 2.5 2.5 0 0 0-.602.922c-.11.282-.238.702-.274 1.486-.046.84-.046 1.095-.046 3.23s.01 2.39.046 3.229c.004.51.097 1.016.274 1.495.145.365.319.639.602.913.282.282.538.456.92.602.474.176.974.268 1.479.273.848.046 1.103.046 3.238.046s2.39-.01 3.23-.046c.784-.036 1.203-.164 1.486-.273.374-.146.648-.329.921-.602.283-.283.447-.548.602-.922.177-.476.27-.979.274-1.486.037-.84.046-1.095.046-3.23s-.01-2.39-.055-3.229c-.027-.784-.164-1.204-.274-1.495a2.4 2.4 0 0 0-.593-.913 2.6 2.6 0 0 0-.92-.602c-.284-.11-.703-.237-1.488-.273ZM6.697 2.05c.857-.036 1.131-.045 3.302-.045a63 63 0 0 1 3.302.045c.664.014 1.321.14 1.943.374a4 4 0 0 1 1.414.922c.41.397.728.88.93 1.414.23.622.354 1.279.365 1.942C18 7.56 18 7.824 18 10.005c0 2.17-.01 2.444-.046 3.292-.036.858-.173 1.442-.374 1.943-.2.53-.474.976-.92 1.423a3.9 3.9 0 0 1-1.415.922c-.51.191-1.095.337-1.943.374-.857.036-1.122.045-3.302.045-2.171 0-2.445-.009-3.302-.055-.849-.027-1.432-.164-1.943-.364a4.15 4.15 0 0 1-1.414-.922 4.1 4.1 0 0 1-.93-1.423c-.183-.51-.329-1.085-.365-1.943C2.009 12.45 2 12.167 2 10.004c0-2.161 0-2.435.055-3.302.027-.848.164-1.432.365-1.942a4.4 4.4 0 0 1 .92-1.414 4.2 4.2 0 0 1 1.415-.93c.51-.183 1.094-.33 1.943-.366Zm.427 4.806a4.105 4.105 0 1 1 5.805 5.805 4.105 4.105 0 0 1-5.805-5.805m1.882 5.371a2.668 2.668 0 1 0 2.042-4.93 2.668 2.668 0 0 0-2.042 4.93m5.922-5.942a.958.958 0 1 1-1.355-1.355.958.958 0 0 1 1.355 1.355" clip-rule="evenodd"/></svg>
+</span>
+        <span class="visually-hidden">Instagram</span>
+      </a>
+    </li><li class="list-social__item">
+      <a href="#" class="link list-social__link">
+        <span class="svg-wrapper"><svg class="icon icon-twitter" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M7.273 2.8 10.8 7.822 15.218 2.8h1.768l-5.4 6.139 5.799 8.254h-4.658l-3.73-5.31-4.671 5.31H2.558l5.654-6.427L2.615 2.8zm6.242 13.125L5.07 4.109h1.405l8.446 11.816z" clip-rule="evenodd"/></svg>
+</span>
+        <span class="visually-hidden">X (Twitter)</span>
+      </a>
+    </li><li class="list-social__item">
+      <a href="#" class="link list-social__link">
+        <span class="svg-wrapper"><svg class="icon icon-snapchat" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M17.388 15.396a5 5 0 0 1-1.111.445c-.074.23-.236.564-.596.813a1.9 1.9 0 0 1-.9.308c-.14.015-.313.021-.443.026l-.092.004c-.317.014-.624.042-.958.154l-.002.001a1.7 1.7 0 0 0-.331.168l-.138.085c-.14.087-.33.205-.497.298a4.6 4.6 0 0 1-2.321.602 4.55 4.55 0 0 1-2.315-.602c-.164-.091-.355-.21-.495-.297l-.14-.086a2 2 0 0 0-.338-.172 3.4 3.4 0 0 0-.96-.154l-.09-.003c-.13-.006-.304-.013-.445-.027-.15-.016-.541-.06-.9-.31a1.56 1.56 0 0 1-.593-.809 4.8 4.8 0 0 1-1.112-.446 1.9 1.9 0 0 1-.628-.535 1.44 1.44 0 0 1-.21-1.306 1.5 1.5 0 0 1 .53-.724c.137-.104.27-.17.323-.196 1.23-.604 1.77-1.38 1.996-1.833l-.18-.118c-.167-.11-.342-.223-.438-.291-.252-.178-.572-.449-.779-.85a1.8 1.8 0 0 1-.087-1.473l.002-.005c.344-.922 1.2-1.14 1.704-1.14h.07q.005-.335.033-.678A4.6 4.6 0 0 1 6.132 3.35l.007-.007a5.1 5.1 0 0 1 1.773-1.247 5.1 5.1 0 0 1 2.108-.394c2.272.008 3.522 1.273 3.855 1.655a4.6 4.6 0 0 1 1.176 2.884c.019.227.028.456.032.678h.088c.521.005 1.346.242 1.684 1.133l.005.012a1.8 1.8 0 0 1-.09 1.477c-.209.401-.531.672-.786.85a19 19 0 0 1-.402.267l-.209.138c.224.45.76 1.226 1.994 1.827l.01.004.008.004c.056.029.188.097.325.203.12.093.388.323.52.724.16.493.028.963-.207 1.292a1.9 1.9 0 0 1-.627.541zm-3.315-5.268c.088-.083.33-.248.574-.41l.255-.169.084-.055.217-.144.018-.013.018-.012c.36-.25.514-.504.401-.811-.081-.214-.28-.295-.486-.295a.8.8 0 0 0-.194.02 3 3 0 0 0-.403.12l-.179.068-.013.005-.058.023q-.139.055-.248.093-.05.017-.091.027c-.029.012-.057.012-.082.012-.117 0-.161-.053-.153-.196l.003-.048.017-.264a20 20 0 0 0 .03-.785v-.03a10 10 0 0 0-.03-.943 3.3 3.3 0 0 0-.85-2.102c-.199-.23-1.13-1.217-2.904-1.217a3.8 3.8 0 0 0-1.583.292c-.5.21-.951.527-1.32.93a3.3 3.3 0 0 0-.851 2.101 10 10 0 0 0-.026 1.198l.01.246a22 22 0 0 0 .033.576q0 .028.003.054c.008.135-.032.192-.154.192l-.08-.008-.087-.025a5 5 0 0 1-.254-.096l-.054-.022-.072-.029-.123-.046-.008-.003a3 3 0 0 0-.447-.128 1 1 0 0 0-.142-.011c-.207 0-.405.077-.486.295-.114.307.04.561.397.811l.089.061.274.181.238.156c.243.161.482.323.569.405.175.165.16.293.14.452l-.002.02c-.014.115-.304 1.492-1.926 2.641a6 6 0 0 1-.51.327 7 7 0 0 1-.428.228c-.141.07-.388.217.045.459q.126.069.24.121h.001c.247.113.46.174.65.225l.035.01q.089.022.17.046c.14.042.267.088.382.163.16.104.182.274.203.432.018.133.035.258.133.326.117.082.333.091.623.103.375.015.873.036 1.443.225.287.097.536.253.8.416.514.322 1.08.674 2.075.674 1 0 1.572-.356 2.087-.677.261-.162.508-.315.788-.409.572-.192 1.073-.212 1.448-.226.289-.011.503-.02.617-.102.101-.068.118-.193.135-.328.021-.157.044-.328.206-.434.116-.075.244-.121.388-.163l.2-.056a4 4 0 0 0 .642-.222 4 4 0 0 0 .248-.124c.429-.242.186-.394.04-.468a7 7 0 0 1-.423-.223l-.01-.005a7 7 0 0 1-.5-.319c-1.629-1.145-1.916-2.526-1.93-2.649v-.002c-.024-.163-.044-.293.138-.465m-10.3 4.838h.002Zm.106-1.842h-.002Zm-.249 2.255" clip-rule="evenodd"/></svg>
+</span>
+        <span class="visually-hidden">Snapchat</span>
+      </a>
+    </li></ul>
+</div>
+      </div><div
+    class="footer__content-bottom scroll-trigger animate--slide-in"
+    
+      data-cascade
+    
+  >
+    <div class="footer__content-bottom-wrapper page-width">
+      <div class="footer__column footer__localization isolate"></div>
+      <div class="footer__column footer__column--info"><div class="footer__payment">
+            <span class="visually-hidden">Payment methods</span>
+            <ul class="list list-payment" role="list"></ul>
+          </div></div>
+    </div>
+    <div class="footer__content-bottom-wrapper page-width">
+      <div class="footer__copyright caption">
+        <small class="copyright__content"
+          >&copy; 2025, <a href="/" title="">Fysso</a></small>
+        <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></small><ul class="policies list-unstyled"><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/privacy-policy">Privacy policy</a></small
+                  >
+                </li><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/refund-policy">Refund policy</a></small
+                  >
+                </li><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/terms-of-service">Terms of service</a></small
+                  >
+                </li><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/contact-information">Contact information</a></small
+                  >
+                </li><li>
+                  <small class="copyright__content"
+                    ><a href="/policies/shipping-policy">Shipping policy</a></small
+                  >
+                </li></ul></div>
+    </div>
+  </div>
+</footer>
+
+
+</div>
+<!-- END sections: footer-group -->
+
+    <ul hidden>
+      <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+      <li id="a11y-new-window-message">Opens in a new window.</li>
+    </ul>
+
+    <script>
+      window.shopUrl = 'https://fysso.shop';
+      window.routes = {
+        cart_add_url: '/cart/add',
+        cart_change_url: '/cart/change',
+        cart_update_url: '/cart/update',
+        cart_url: '/cart',
+        predictive_search_url: '/search/suggest',
+      };
+
+      window.cartStrings = {
+        error: `There was an error while updating your cart. Please try again.`,
+        quantityError: `You can only add [quantity] of this item to your cart.`,
+      };
+
+      window.variantStrings = {
+        addToCart: `Add to cart`,
+        soldOut: `Sold out`,
+        unavailable: `Unavailable`,
+        unavailable_with_option: `[value] - Unavailable`,
+      };
+
+      window.quickOrderListStrings = {
+        itemsAdded: `[quantity] items added`,
+        itemAdded: `[quantity] item added`,
+        itemsRemoved: `[quantity] items removed`,
+        itemRemoved: `[quantity] item removed`,
+        viewCart: `View cart`,
+        each: `[money]/ea`,
+        min_error: `This item has a minimum of [min]`,
+        max_error: `This item has a maximum of [max]`,
+        step_error: `You can only add this item in increments of [step]`,
+      };
+
+      window.accessibilityStrings = {
+        imageAvailable: `Image [index] is now available in gallery view`,
+        shareSuccess: `Link copied to clipboard`,
+        pauseSlideshow: `Pause slideshow`,
+        playSlideshow: `Play slideshow`,
+        recipientFormExpanded: `Gift card recipient form expanded`,
+        recipientFormCollapsed: `Gift card recipient form collapsed`,
+        countrySelectorSearchCount: `[count] countries/regions found`,
+      };
+    </script></body>
+</html>
